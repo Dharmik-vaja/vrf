@@ -1,0 +1,1001 @@
+Contractor ID,Contractor Name,Company Name,Registration Number,Experience (Years),Past Projects Completed,Annual Revenue (₹ in Crores),Insurance Status,Equipment Availability,Certifications,Workforce Strength,Bid Amount (₹)
+CNT1000,Contractor_0,Company_0,REG100000,29,68,81.46,Not Insured,Mixed,Pending,312,26203803
+CNT1001,Contractor_1,Company_1,REG100001,20,97,51.22,Insured,Owned,Pending,272,48833623
+CNT1002,Contractor_2,Company_2,REG100002,15,85,58.67,Not Insured,Mixed,Partial,323,44079015
+CNT1003,Contractor_3,Company_3,REG100003,14,80,17.46,Not Insured,Leased,Pending,246,25914697
+CNT1004,Contractor_4,Company_4,REG100004,16,83,77.72,Insured,Mixed,Pending,68,8382402
+CNT1005,Contractor_5,Company_5,REG100005,9,33,78.06,Insured,Mixed,Complete,476,15882460
+CNT1006,Contractor_6,Company_6,REG100006,11,46,50.17,Not Insured,Owned,Pending,112,46139821
+CNT1007,Contractor_7,Company_7,REG100007,11,84,5.86,Insured,Leased,Complete,180,22853549
+CNT1008,Contractor_8,Company_8,REG100008,8,90,98.33,Not Insured,Mixed,Pending,133,13477217
+CNT1009,Contractor_9,Company_9,REG100009,18,99,65.44,Insured,Mixed,Complete,274,9010883
+CNT1010,Contractor_10,Company_10,REG100010,10,70,47.1,Insured,Owned,Partial,333,15341694
+CNT1011,Contractor_11,Company_11,REG100011,10,71,92.03,Not Insured,Mixed,Complete,140,9889802
+CNT1012,Contractor_12,Company_12,REG100012,11,24,69.37,Not Insured,Mixed,Partial,241,41691781
+CNT1013,Contractor_13,Company_13,REG100013,17,98,95.94,Not Insured,Leased,Pending,474,16898793
+CNT1014,Contractor_14,Company_14,REG100014,6,87,57.12,Not Insured,Owned,Complete,106,20522848
+CNT1015,Contractor_15,Company_15,REG100015,6,40,37.27,Insured,Mixed,Pending,473,28341813
+CNT1016,Contractor_16,Company_16,REG100016,16,46,30.92,Not Insured,Leased,Partial,296,46891659
+CNT1017,Contractor_17,Company_17,REG100017,12,67,11.29,Not Insured,Owned,Partial,104,31186025
+CNT1018,Contractor_18,Company_18,REG100018,27,96,80.51,Not Insured,Owned,Pending,383,26973712
+CNT1019,Contractor_19,Company_19,REG100019,11,28,30.73,Not Insured,Owned,Partial,164,5496318
+CNT1020,Contractor_20,Company_20,REG100020,26,38,79.11,Not Insured,Owned,Partial,307,4661136
+CNT1021,Contractor_21,Company_21,REG100021,17,15,7.33,Insured,Mixed,Partial,420,18134006
+CNT1022,Contractor_22,Company_22,REG100022,10,83,8.2,Insured,Mixed,Pending,443,20655408
+CNT1023,Contractor_23,Company_23,REG100023,26,53,72.77,Insured,Mixed,Complete,316,37057413
+CNT1024,Contractor_24,Company_24,REG100024,19,86,25.09,Not Insured,Owned,Complete,325,19280987
+CNT1025,Contractor_25,Company_25,REG100025,8,61,96.19,Not Insured,Owned,Partial,377,37276055
+CNT1026,Contractor_26,Company_26,REG100026,9,65,84.76,Insured,Mixed,Partial,417,29840413
+CNT1027,Contractor_27,Company_27,REG100027,15,94,25.36,Insured,Leased,Complete,270,13058808
+CNT1028,Contractor_28,Company_28,REG100028,19,42,54.97,Insured,Leased,Partial,275,42353182
+CNT1029,Contractor_29,Company_29,REG100029,28,81,80.07,Insured,Mixed,Partial,272,46142301
+CNT1030,Contractor_30,Company_30,REG100030,27,37,33.14,Insured,Owned,Pending,454,37269664
+CNT1031,Contractor_31,Company_31,REG100031,13,40,56.47,Not Insured,Owned,Partial,173,27150016
+CNT1032,Contractor_32,Company_32,REG100032,24,66,68.87,Insured,Leased,Partial,450,41890817
+CNT1033,Contractor_33,Company_33,REG100033,19,92,13.45,Insured,Mixed,Partial,61,6674205
+CNT1034,Contractor_34,Company_34,REG100034,28,25,37.29,Not Insured,Owned,Partial,415,35431949
+CNT1035,Contractor_35,Company_35,REG100035,24,39,51.28,Not Insured,Leased,Complete,199,23059861
+CNT1036,Contractor_36,Company_36,REG100036,20,60,32.7,Insured,Mixed,Complete,379,6058046
+CNT1037,Contractor_37,Company_37,REG100037,28,51,41.62,Insured,Leased,Partial,319,48118119
+CNT1038,Contractor_38,Company_38,REG100038,10,43,55.39,Not Insured,Owned,Complete,309,26612628
+CNT1039,Contractor_39,Company_39,REG100039,26,15,35.13,Insured,Mixed,Complete,183,47284524
+CNT1040,Contractor_40,Company_40,REG100040,26,65,38.36,Not Insured,Leased,Partial,228,37405447
+CNT1041,Contractor_41,Company_41,REG100041,7,68,36.36,Insured,Leased,Pending,220,35635843
+CNT1042,Contractor_42,Company_42,REG100042,29,98,73.16,Not Insured,Leased,Partial,361,3387044
+CNT1043,Contractor_43,Company_43,REG100043,30,45,23.57,Insured,Leased,Complete,406,37321945
+CNT1044,Contractor_44,Company_44,REG100044,25,81,30.86,Not Insured,Leased,Complete,225,16408605
+CNT1045,Contractor_45,Company_45,REG100045,28,78,21.5,Not Insured,Leased,Complete,401,45000977
+CNT1046,Contractor_46,Company_46,REG100046,7,84,42.89,Insured,Leased,Partial,210,34523048
+CNT1047,Contractor_47,Company_47,REG100047,29,62,65.53,Not Insured,Owned,Partial,285,5728620
+CNT1048,Contractor_48,Company_48,REG100048,12,51,41.91,Insured,Mixed,Complete,136,4393988
+CNT1049,Contractor_49,Company_49,REG100049,25,17,94.57,Not Insured,Mixed,Pending,281,47002086
+CNT1050,Contractor_50,Company_50,REG100050,29,55,41.51,Insured,Leased,Pending,297,25412847
+CNT1051,Contractor_51,Company_51,REG100051,28,64,49.47,Not Insured,Owned,Complete,211,49171321
+CNT1052,Contractor_52,Company_52,REG100052,10,33,33.83,Insured,Mixed,Partial,179,30144994
+CNT1053,Contractor_53,Company_53,REG100053,11,31,82.26,Insured,Owned,Complete,318,13408121
+CNT1054,Contractor_54,Company_54,REG100054,30,92,67.94,Insured,Mixed,Complete,172,19539014
+CNT1055,Contractor_55,Company_55,REG100055,6,13,40.44,Not Insured,Owned,Partial,426,20466693
+CNT1056,Contractor_56,Company_56,REG100056,12,91,83.86,Insured,Mixed,Partial,446,11045941
+CNT1057,Contractor_57,Company_57,REG100057,24,32,65.71,Not Insured,Mixed,Complete,52,42888025
+CNT1058,Contractor_58,Company_58,REG100058,8,22,83.29,Not Insured,Owned,Partial,442,15281601
+CNT1059,Contractor_59,Company_59,REG100059,30,85,49.68,Insured,Owned,Pending,390,14915761
+CNT1060,Contractor_60,Company_60,REG100060,8,40,59.3,Not Insured,Mixed,Pending,265,3547610
+CNT1061,Contractor_61,Company_61,REG100061,28,59,34.05,Insured,Leased,Partial,493,14380587
+CNT1062,Contractor_62,Company_62,REG100062,24,38,66.44,Not Insured,Mixed,Partial,139,18531163
+CNT1063,Contractor_63,Company_63,REG100063,20,21,68.83,Not Insured,Mixed,Partial,328,13276815
+CNT1064,Contractor_64,Company_64,REG100064,21,63,96.37,Insured,Leased,Complete,222,38865793
+CNT1065,Contractor_65,Company_65,REG100065,10,60,81.99,Insured,Leased,Complete,370,41035231
+CNT1066,Contractor_66,Company_66,REG100066,30,23,76.7,Insured,Owned,Complete,416,49254754
+CNT1067,Contractor_67,Company_67,REG100067,29,15,64.82,Not Insured,Owned,Partial,306,17887679
+CNT1068,Contractor_68,Company_68,REG100068,5,47,49.78,Not Insured,Leased,Partial,439,28385498
+CNT1069,Contractor_69,Company_69,REG100069,28,64,18.95,Not Insured,Leased,Partial,246,31984443
+CNT1070,Contractor_70,Company_70,REG100070,17,18,35.6,Not Insured,Leased,Complete,126,7684464
+CNT1071,Contractor_71,Company_71,REG100071,19,77,92.82,Not Insured,Mixed,Partial,101,39506197
+CNT1072,Contractor_72,Company_72,REG100072,10,87,51.58,Not Insured,Mixed,Complete,134,3033469
+CNT1073,Contractor_73,Company_73,REG100073,13,80,76.63,Not Insured,Mixed,Complete,216,44128514
+CNT1074,Contractor_74,Company_74,REG100074,22,10,41.52,Not Insured,Leased,Pending,199,16276176
+CNT1075,Contractor_75,Company_75,REG100075,16,82,54.65,Insured,Mixed,Partial,324,45343328
+CNT1076,Contractor_76,Company_76,REG100076,10,18,89.18,Insured,Leased,Pending,158,3891190
+CNT1077,Contractor_77,Company_77,REG100077,22,48,41.63,Not Insured,Leased,Pending,393,16215854
+CNT1078,Contractor_78,Company_78,REG100078,23,93,32.8,Not Insured,Leased,Complete,437,25290833
+CNT1079,Contractor_79,Company_79,REG100079,13,72,44.88,Not Insured,Mixed,Pending,319,29289663
+CNT1080,Contractor_80,Company_80,REG100080,20,85,59.19,Insured,Mixed,Complete,407,19399913
+CNT1081,Contractor_81,Company_81,REG100081,30,44,6.07,Not Insured,Owned,Pending,320,23748527
+CNT1082,Contractor_82,Company_82,REG100082,15,50,71.08,Not Insured,Owned,Partial,498,32707304
+CNT1083,Contractor_83,Company_83,REG100083,11,34,19.66,Insured,Leased,Pending,238,43811091
+CNT1084,Contractor_84,Company_84,REG100084,25,79,92.23,Insured,Leased,Partial,138,47788473
+CNT1085,Contractor_85,Company_85,REG100085,9,97,73.42,Insured,Mixed,Partial,464,30923812
+CNT1086,Contractor_86,Company_86,REG100086,28,21,94.08,Insured,Leased,Pending,145,36478789
+CNT1087,Contractor_87,Company_87,REG100087,8,43,12.16,Insured,Owned,Partial,75,16992223
+CNT1088,Contractor_88,Company_88,REG100088,27,97,64.23,Not Insured,Mixed,Pending,284,29111956
+CNT1089,Contractor_89,Company_89,REG100089,17,78,49.17,Not Insured,Mixed,Pending,134,17501345
+CNT1090,Contractor_90,Company_90,REG100090,17,86,32.78,Insured,Owned,Complete,465,47464962
+CNT1091,Contractor_91,Company_91,REG100091,24,61,87.66,Not Insured,Mixed,Partial,343,46216650
+CNT1092,Contractor_92,Company_92,REG100092,7,92,36.57,Not Insured,Mixed,Complete,442,16137613
+CNT1093,Contractor_93,Company_93,REG100093,27,56,74.81,Not Insured,Leased,Pending,437,7269378
+CNT1094,Contractor_94,Company_94,REG100094,9,61,55.95,Insured,Owned,Partial,115,18555910
+CNT1095,Contractor_95,Company_95,REG100095,19,60,49.03,Insured,Leased,Complete,166,46984743
+CNT1096,Contractor_96,Company_96,REG100096,15,58,86.94,Not Insured,Leased,Partial,104,47601531
+CNT1097,Contractor_97,Company_97,REG100097,25,92,81.85,Not Insured,Mixed,Pending,173,36479512
+CNT1098,Contractor_98,Company_98,REG100098,16,24,42.85,Not Insured,Owned,Complete,71,47401162
+CNT1099,Contractor_99,Company_99,REG100099,5,20,32.67,Not Insured,Mixed,Partial,58,45968226
+CNT1100,Contractor_100,Company_100,REG100100,25,87,93.52,Insured,Mixed,Pending,313,34936870
+CNT1101,Contractor_101,Company_101,REG100101,5,85,19.19,Not Insured,Leased,Pending,350,14799484
+CNT1102,Contractor_102,Company_102,REG100102,14,96,51.58,Insured,Leased,Complete,108,30664044
+CNT1103,Contractor_103,Company_103,REG100103,26,29,57.88,Not Insured,Leased,Partial,90,32229966
+CNT1104,Contractor_104,Company_104,REG100104,9,84,30.4,Insured,Leased,Pending,284,28964799
+CNT1105,Contractor_105,Company_105,REG100105,23,38,98.84,Not Insured,Mixed,Pending,164,41962548
+CNT1106,Contractor_106,Company_106,REG100106,14,89,93.78,Insured,Leased,Pending,446,48410802
+CNT1107,Contractor_107,Company_107,REG100107,21,37,14.52,Not Insured,Mixed,Complete,482,19154701
+CNT1108,Contractor_108,Company_108,REG100108,7,100,76.8,Not Insured,Leased,Complete,185,27730950
+CNT1109,Contractor_109,Company_109,REG100109,9,45,13.98,Insured,Leased,Complete,367,19406135
+CNT1110,Contractor_110,Company_110,REG100110,9,73,15.16,Not Insured,Mixed,Pending,489,16729359
+CNT1111,Contractor_111,Company_111,REG100111,17,36,10.99,Insured,Leased,Complete,257,24619658
+CNT1112,Contractor_112,Company_112,REG100112,13,96,28.42,Insured,Owned,Pending,460,33722054
+CNT1113,Contractor_113,Company_113,REG100113,6,32,76.76,Insured,Mixed,Complete,305,14349420
+CNT1114,Contractor_114,Company_114,REG100114,19,19,42.16,Insured,Owned,Complete,53,12282000
+CNT1115,Contractor_115,Company_115,REG100115,18,89,15.07,Insured,Mixed,Pending,161,10109620
+CNT1116,Contractor_116,Company_116,REG100116,19,21,55.53,Insured,Leased,Pending,229,42962560
+CNT1117,Contractor_117,Company_117,REG100117,13,69,28.38,Insured,Leased,Pending,143,26167560
+CNT1118,Contractor_118,Company_118,REG100118,8,69,27.48,Not Insured,Mixed,Pending,115,12219729
+CNT1119,Contractor_119,Company_119,REG100119,18,97,37.04,Not Insured,Leased,Partial,358,18578106
+CNT1120,Contractor_120,Company_120,REG100120,25,98,34.19,Not Insured,Leased,Partial,383,39042911
+CNT1121,Contractor_121,Company_121,REG100121,5,87,7.66,Insured,Owned,Partial,326,21554972
+CNT1122,Contractor_122,Company_122,REG100122,22,85,70.97,Not Insured,Owned,Partial,457,11688318
+CNT1123,Contractor_123,Company_123,REG100123,18,99,33.75,Insured,Leased,Partial,112,40439658
+CNT1124,Contractor_124,Company_124,REG100124,7,83,94.61,Insured,Owned,Partial,82,3361905
+CNT1125,Contractor_125,Company_125,REG100125,13,29,79.66,Not Insured,Leased,Pending,326,27531438
+CNT1126,Contractor_126,Company_126,REG100126,10,60,83.56,Not Insured,Mixed,Complete,350,48206545
+CNT1127,Contractor_127,Company_127,REG100127,20,80,52.68,Insured,Mixed,Pending,151,38952106
+CNT1128,Contractor_128,Company_128,REG100128,10,97,91.39,Insured,Leased,Partial,276,24760615
+CNT1129,Contractor_129,Company_129,REG100129,13,46,83.85,Not Insured,Leased,Complete,188,43167475
+CNT1130,Contractor_130,Company_130,REG100130,29,10,20.06,Insured,Leased,Partial,106,9038356
+CNT1131,Contractor_131,Company_131,REG100131,26,96,29.76,Not Insured,Leased,Complete,120,10164018
+CNT1132,Contractor_132,Company_132,REG100132,8,18,44.59,Insured,Owned,Pending,217,25309832
+CNT1133,Contractor_133,Company_133,REG100133,5,10,75.41,Not Insured,Mixed,Complete,289,46971230
+CNT1134,Contractor_134,Company_134,REG100134,6,21,59.11,Not Insured,Mixed,Partial,225,47250408
+CNT1135,Contractor_135,Company_135,REG100135,22,45,78.93,Not Insured,Mixed,Complete,161,22176893
+CNT1136,Contractor_136,Company_136,REG100136,15,88,42.53,Insured,Owned,Partial,307,33602302
+CNT1137,Contractor_137,Company_137,REG100137,25,17,88.18,Not Insured,Mixed,Complete,318,27243850
+CNT1138,Contractor_138,Company_138,REG100138,9,12,39.39,Not Insured,Owned,Partial,229,5630208
+CNT1139,Contractor_139,Company_139,REG100139,8,23,11.3,Insured,Owned,Pending,239,4579811
+CNT1140,Contractor_140,Company_140,REG100140,28,43,75.12,Not Insured,Mixed,Partial,269,38095066
+CNT1141,Contractor_141,Company_141,REG100141,14,17,12.27,Not Insured,Leased,Partial,109,10174537
+CNT1142,Contractor_142,Company_142,REG100142,7,49,22.47,Not Insured,Owned,Partial,229,10304271
+CNT1143,Contractor_143,Company_143,REG100143,17,26,68.07,Not Insured,Owned,Complete,54,40646267
+CNT1144,Contractor_144,Company_144,REG100144,27,98,97.92,Not Insured,Mixed,Partial,171,10483932
+CNT1145,Contractor_145,Company_145,REG100145,29,56,67.54,Insured,Mixed,Partial,197,6565236
+CNT1146,Contractor_146,Company_146,REG100146,19,32,86.13,Insured,Owned,Partial,483,5951550
+CNT1147,Contractor_147,Company_147,REG100147,5,46,24.5,Insured,Owned,Pending,132,31920227
+CNT1148,Contractor_148,Company_148,REG100148,7,39,42.81,Not Insured,Mixed,Pending,86,17496117
+CNT1149,Contractor_149,Company_149,REG100149,27,37,15.5,Insured,Owned,Complete,328,44831005
+CNT1150,Contractor_150,Company_150,REG100150,22,33,94.25,Insured,Owned,Pending,447,46489571
+CNT1151,Contractor_151,Company_151,REG100151,14,50,15.8,Not Insured,Leased,Complete,334,40931135
+CNT1152,Contractor_152,Company_152,REG100152,22,27,74.31,Not Insured,Leased,Pending,419,23973763
+CNT1153,Contractor_153,Company_153,REG100153,20,36,89.61,Insured,Mixed,Partial,246,9137553
+CNT1154,Contractor_154,Company_154,REG100154,11,50,50.91,Insured,Owned,Complete,407,31051411
+CNT1155,Contractor_155,Company_155,REG100155,22,66,51.23,Insured,Mixed,Pending,462,37545989
+CNT1156,Contractor_156,Company_156,REG100156,26,59,6.11,Insured,Owned,Pending,361,44897821
+CNT1157,Contractor_157,Company_157,REG100157,18,30,31.1,Insured,Owned,Pending,158,48926869
+CNT1158,Contractor_158,Company_158,REG100158,10,47,55.54,Not Insured,Owned,Partial,95,17024271
+CNT1159,Contractor_159,Company_159,REG100159,24,96,97.45,Not Insured,Mixed,Partial,221,12628980
+CNT1160,Contractor_160,Company_160,REG100160,28,93,17.15,Not Insured,Owned,Partial,63,10275758
+CNT1161,Contractor_161,Company_161,REG100161,7,44,5.79,Insured,Owned,Pending,133,15139362
+CNT1162,Contractor_162,Company_162,REG100162,22,100,44.04,Insured,Mixed,Partial,200,46177574
+CNT1163,Contractor_163,Company_163,REG100163,7,84,40.24,Insured,Leased,Partial,258,14711110
+CNT1164,Contractor_164,Company_164,REG100164,9,52,70.07,Insured,Mixed,Pending,263,42164671
+CNT1165,Contractor_165,Company_165,REG100165,30,50,46.25,Insured,Leased,Pending,240,3849779
+CNT1166,Contractor_166,Company_166,REG100166,13,78,19.96,Insured,Leased,Pending,469,37009082
+CNT1167,Contractor_167,Company_167,REG100167,6,61,82.31,Not Insured,Leased,Partial,498,38958452
+CNT1168,Contractor_168,Company_168,REG100168,21,88,93.68,Insured,Leased,Partial,170,24794669
+CNT1169,Contractor_169,Company_169,REG100169,8,42,84.43,Insured,Mixed,Partial,158,13144656
+CNT1170,Contractor_170,Company_170,REG100170,22,55,96.78,Not Insured,Mixed,Complete,345,49396129
+CNT1171,Contractor_171,Company_171,REG100171,5,98,87.88,Not Insured,Leased,Complete,67,24484138
+CNT1172,Contractor_172,Company_172,REG100172,13,75,49.55,Not Insured,Owned,Complete,471,10879177
+CNT1173,Contractor_173,Company_173,REG100173,16,40,47.78,Not Insured,Owned,Complete,361,45345128
+CNT1174,Contractor_174,Company_174,REG100174,19,44,25.99,Not Insured,Leased,Pending,425,32266379
+CNT1175,Contractor_175,Company_175,REG100175,18,90,48.45,Not Insured,Leased,Partial,258,11393235
+CNT1176,Contractor_176,Company_176,REG100176,15,69,92.98,Insured,Mixed,Pending,227,40697902
+CNT1177,Contractor_177,Company_177,REG100177,9,82,42.28,Insured,Mixed,Pending,130,41073089
+CNT1178,Contractor_178,Company_178,REG100178,21,51,57.15,Not Insured,Mixed,Pending,107,34200302
+CNT1179,Contractor_179,Company_179,REG100179,24,51,84.1,Not Insured,Leased,Complete,489,6904244
+CNT1180,Contractor_180,Company_180,REG100180,28,57,81.16,Insured,Owned,Complete,64,21466770
+CNT1181,Contractor_181,Company_181,REG100181,12,56,86.1,Insured,Mixed,Complete,494,11747306
+CNT1182,Contractor_182,Company_182,REG100182,16,20,80.36,Not Insured,Owned,Complete,296,45853987
+CNT1183,Contractor_183,Company_183,REG100183,29,90,34.21,Not Insured,Leased,Complete,74,33362964
+CNT1184,Contractor_184,Company_184,REG100184,9,99,94.53,Insured,Owned,Complete,346,7238983
+CNT1185,Contractor_185,Company_185,REG100185,20,86,48.85,Not Insured,Leased,Pending,344,35457047
+CNT1186,Contractor_186,Company_186,REG100186,18,42,20.03,Insured,Leased,Complete,179,12044130
+CNT1187,Contractor_187,Company_187,REG100187,26,26,18.71,Not Insured,Mixed,Complete,303,42420319
+CNT1188,Contractor_188,Company_188,REG100188,22,67,55.49,Not Insured,Mixed,Pending,392,15093856
+CNT1189,Contractor_189,Company_189,REG100189,11,97,20.12,Not Insured,Leased,Partial,481,14303981
+CNT1190,Contractor_190,Company_190,REG100190,30,54,85.62,Insured,Mixed,Pending,493,24385169
+CNT1191,Contractor_191,Company_191,REG100191,26,45,39.7,Insured,Leased,Pending,178,39178102
+CNT1192,Contractor_192,Company_192,REG100192,21,30,95.98,Not Insured,Owned,Complete,448,22715790
+CNT1193,Contractor_193,Company_193,REG100193,15,96,68.88,Not Insured,Leased,Complete,351,14446197
+CNT1194,Contractor_194,Company_194,REG100194,21,25,47.59,Not Insured,Mixed,Pending,422,37844535
+CNT1195,Contractor_195,Company_195,REG100195,21,56,78.31,Insured,Leased,Pending,420,7233353
+CNT1196,Contractor_196,Company_196,REG100196,7,75,52.09,Insured,Leased,Partial,238,46344948
+CNT1197,Contractor_197,Company_197,REG100197,24,21,45.46,Not Insured,Mixed,Partial,209,18965299
+CNT1198,Contractor_198,Company_198,REG100198,23,64,37.79,Not Insured,Mixed,Partial,297,41030713
+CNT1199,Contractor_199,Company_199,REG100199,5,65,71.83,Insured,Mixed,Partial,472,3993027
+CNT1200,Contractor_200,Company_200,REG100200,6,55,91.26,Not Insured,Owned,Partial,390,48414848
+CNT1201,Contractor_201,Company_201,REG100201,14,25,7.87,Not Insured,Owned,Pending,64,47132075
+CNT1202,Contractor_202,Company_202,REG100202,27,44,31.37,Not Insured,Owned,Complete,390,2587965
+CNT1203,Contractor_203,Company_203,REG100203,26,85,54.61,Not Insured,Owned,Partial,92,48408696
+CNT1204,Contractor_204,Company_204,REG100204,19,68,88.65,Insured,Owned,Partial,437,49492196
+CNT1205,Contractor_205,Company_205,REG100205,22,64,37.73,Not Insured,Mixed,Pending,352,13816574
+CNT1206,Contractor_206,Company_206,REG100206,13,100,28.24,Not Insured,Leased,Complete,115,22820173
+CNT1207,Contractor_207,Company_207,REG100207,22,14,35.99,Insured,Leased,Pending,183,29170501
+CNT1208,Contractor_208,Company_208,REG100208,15,68,53.17,Not Insured,Leased,Complete,490,47077142
+CNT1209,Contractor_209,Company_209,REG100209,5,31,84.96,Insured,Owned,Partial,268,45725376
+CNT1210,Contractor_210,Company_210,REG100210,8,85,68.6,Not Insured,Leased,Complete,222,13722714
+CNT1211,Contractor_211,Company_211,REG100211,27,24,21.35,Insured,Mixed,Pending,355,7550672
+CNT1212,Contractor_212,Company_212,REG100212,20,15,24.19,Insured,Mixed,Pending,100,36603261
+CNT1213,Contractor_213,Company_213,REG100213,21,91,12.47,Insured,Leased,Pending,304,46747349
+CNT1214,Contractor_214,Company_214,REG100214,21,94,79.94,Insured,Owned,Complete,61,16195333
+CNT1215,Contractor_215,Company_215,REG100215,28,97,86.91,Not Insured,Owned,Complete,346,34824835
+CNT1216,Contractor_216,Company_216,REG100216,22,84,86.24,Insured,Leased,Complete,240,40471101
+CNT1217,Contractor_217,Company_217,REG100217,14,38,38.65,Insured,Owned,Partial,58,45642445
+CNT1218,Contractor_218,Company_218,REG100218,18,99,72.07,Not Insured,Leased,Pending,387,37628772
+CNT1219,Contractor_219,Company_219,REG100219,25,19,18.82,Not Insured,Mixed,Partial,204,3209907
+CNT1220,Contractor_220,Company_220,REG100220,13,75,71.64,Insured,Owned,Complete,196,25768372
+CNT1221,Contractor_221,Company_221,REG100221,7,45,22.9,Insured,Mixed,Partial,338,32464469
+CNT1222,Contractor_222,Company_222,REG100222,8,64,41.31,Insured,Mixed,Pending,378,13150261
+CNT1223,Contractor_223,Company_223,REG100223,6,71,81.09,Not Insured,Leased,Partial,170,8161922
+CNT1224,Contractor_224,Company_224,REG100224,30,95,66.45,Not Insured,Owned,Partial,199,11085180
+CNT1225,Contractor_225,Company_225,REG100225,29,65,96.87,Not Insured,Mixed,Complete,456,33509555
+CNT1226,Contractor_226,Company_226,REG100226,22,75,47.31,Insured,Mixed,Partial,324,5150593
+CNT1227,Contractor_227,Company_227,REG100227,19,69,82.87,Not Insured,Owned,Pending,339,47218084
+CNT1228,Contractor_228,Company_228,REG100228,12,91,94.07,Insured,Leased,Complete,444,16275724
+CNT1229,Contractor_229,Company_229,REG100229,11,33,43.13,Insured,Leased,Complete,412,49216238
+CNT1230,Contractor_230,Company_230,REG100230,14,75,89,Insured,Owned,Partial,493,47764899
+CNT1231,Contractor_231,Company_231,REG100231,15,12,60.36,Insured,Mixed,Partial,419,40512502
+CNT1232,Contractor_232,Company_232,REG100232,22,34,67.63,Not Insured,Owned,Pending,112,17531777
+CNT1233,Contractor_233,Company_233,REG100233,22,58,66.03,Not Insured,Leased,Pending,485,16242580
+CNT1234,Contractor_234,Company_234,REG100234,7,100,54.14,Not Insured,Leased,Partial,161,39654646
+CNT1235,Contractor_235,Company_235,REG100235,14,29,5.9,Insured,Leased,Pending,206,35613529
+CNT1236,Contractor_236,Company_236,REG100236,22,21,87.52,Not Insured,Leased,Complete,348,20383905
+CNT1237,Contractor_237,Company_237,REG100237,16,83,64.32,Not Insured,Leased,Partial,380,37736840
+CNT1238,Contractor_238,Company_238,REG100238,7,97,50.56,Insured,Mixed,Complete,120,45852633
+CNT1239,Contractor_239,Company_239,REG100239,23,15,40.52,Insured,Leased,Partial,86,25329091
+CNT1240,Contractor_240,Company_240,REG100240,8,53,45.04,Not Insured,Leased,Partial,442,35834825
+CNT1241,Contractor_241,Company_241,REG100241,7,80,70.55,Not Insured,Owned,Complete,136,4598435
+CNT1242,Contractor_242,Company_242,REG100242,23,60,29.71,Insured,Mixed,Complete,402,6553938
+CNT1243,Contractor_243,Company_243,REG100243,28,52,80.57,Not Insured,Owned,Partial,415,8078423
+CNT1244,Contractor_244,Company_244,REG100244,27,71,30.49,Insured,Leased,Complete,304,46652265
+CNT1245,Contractor_245,Company_245,REG100245,11,25,19.95,Not Insured,Mixed,Complete,441,47676726
+CNT1246,Contractor_246,Company_246,REG100246,13,58,6.27,Not Insured,Mixed,Complete,357,7281509
+CNT1247,Contractor_247,Company_247,REG100247,30,68,52.69,Insured,Mixed,Complete,256,5917099
+CNT1248,Contractor_248,Company_248,REG100248,23,25,98.84,Insured,Leased,Pending,162,3150394
+CNT1249,Contractor_249,Company_249,REG100249,14,73,39.59,Insured,Mixed,Pending,67,47657101
+CNT1250,Contractor_250,Company_250,REG100250,20,99,15.06,Not Insured,Leased,Partial,220,5216381
+CNT1251,Contractor_251,Company_251,REG100251,15,52,28.07,Insured,Mixed,Complete,483,23877455
+CNT1252,Contractor_252,Company_252,REG100252,8,49,79.02,Insured,Owned,Pending,405,20300411
+CNT1253,Contractor_253,Company_253,REG100253,25,74,7.29,Insured,Mixed,Partial,88,8875990
+CNT1254,Contractor_254,Company_254,REG100254,24,47,88.49,Insured,Leased,Partial,141,27239194
+CNT1255,Contractor_255,Company_255,REG100255,23,24,57.13,Not Insured,Mixed,Pending,67,13696501
+CNT1256,Contractor_256,Company_256,REG100256,30,13,30.01,Insured,Mixed,Complete,177,11031627
+CNT1257,Contractor_257,Company_257,REG100257,10,27,70.78,Insured,Owned,Complete,428,4797250
+CNT1258,Contractor_258,Company_258,REG100258,11,41,16.45,Not Insured,Leased,Complete,104,22968489
+CNT1259,Contractor_259,Company_259,REG100259,13,95,84.66,Insured,Leased,Partial,434,18607642
+CNT1260,Contractor_260,Company_260,REG100260,13,71,91.54,Insured,Mixed,Complete,404,43662510
+CNT1261,Contractor_261,Company_261,REG100261,11,34,11.05,Not Insured,Owned,Partial,317,37811964
+CNT1262,Contractor_262,Company_262,REG100262,22,48,94.86,Not Insured,Leased,Complete,376,35622813
+CNT1263,Contractor_263,Company_263,REG100263,7,16,50.95,Not Insured,Owned,Partial,77,34458777
+CNT1264,Contractor_264,Company_264,REG100264,13,86,53.06,Insured,Leased,Partial,462,40613641
+CNT1265,Contractor_265,Company_265,REG100265,5,44,84.74,Insured,Leased,Pending,299,10162816
+CNT1266,Contractor_266,Company_266,REG100266,9,38,45.05,Not Insured,Leased,Complete,353,30590772
+CNT1267,Contractor_267,Company_267,REG100267,11,18,47.51,Insured,Leased,Complete,67,14222168
+CNT1268,Contractor_268,Company_268,REG100268,27,22,10.2,Insured,Leased,Complete,204,48392747
+CNT1269,Contractor_269,Company_269,REG100269,20,73,66.85,Not Insured,Mixed,Partial,209,3532981
+CNT1270,Contractor_270,Company_270,REG100270,26,59,56.75,Insured,Mixed,Complete,491,26255027
+CNT1271,Contractor_271,Company_271,REG100271,23,70,87.97,Insured,Mixed,Partial,162,28722227
+CNT1272,Contractor_272,Company_272,REG100272,15,12,29.75,Insured,Owned,Pending,244,5585189
+CNT1273,Contractor_273,Company_273,REG100273,14,29,26.59,Insured,Leased,Complete,157,19205839
+CNT1274,Contractor_274,Company_274,REG100274,27,95,52.68,Insured,Leased,Partial,431,49873458
+CNT1275,Contractor_275,Company_275,REG100275,12,11,26.76,Not Insured,Owned,Complete,155,40745433
+CNT1276,Contractor_276,Company_276,REG100276,6,86,6.77,Insured,Leased,Partial,266,40249399
+CNT1277,Contractor_277,Company_277,REG100277,20,49,41.05,Insured,Mixed,Complete,459,34103966
+CNT1278,Contractor_278,Company_278,REG100278,20,27,23.83,Not Insured,Mixed,Pending,437,3313379
+CNT1279,Contractor_279,Company_279,REG100279,19,51,27.24,Insured,Owned,Partial,494,23048531
+CNT1280,Contractor_280,Company_280,REG100280,5,67,86.82,Insured,Mixed,Complete,400,16871854
+CNT1281,Contractor_281,Company_281,REG100281,10,83,55.29,Not Insured,Owned,Pending,301,6163479
+CNT1282,Contractor_282,Company_282,REG100282,20,44,50.79,Not Insured,Leased,Pending,244,41453084
+CNT1283,Contractor_283,Company_283,REG100283,14,43,18.91,Not Insured,Mixed,Partial,441,25260728
+CNT1284,Contractor_284,Company_284,REG100284,26,77,85.25,Insured,Leased,Partial,475,27664731
+CNT1285,Contractor_285,Company_285,REG100285,18,11,99.95,Insured,Leased,Complete,58,43367528
+CNT1286,Contractor_286,Company_286,REG100286,23,29,6.05,Not Insured,Owned,Partial,438,40186324
+CNT1287,Contractor_287,Company_287,REG100287,28,56,13.52,Not Insured,Mixed,Complete,177,12273955
+CNT1288,Contractor_288,Company_288,REG100288,6,20,57.38,Not Insured,Mixed,Complete,409,2817791
+CNT1289,Contractor_289,Company_289,REG100289,21,11,57.75,Insured,Owned,Partial,493,31775892
+CNT1290,Contractor_290,Company_290,REG100290,20,93,32.38,Not Insured,Leased,Complete,251,9415574
+CNT1291,Contractor_291,Company_291,REG100291,22,94,73.71,Insured,Leased,Pending,84,44890672
+CNT1292,Contractor_292,Company_292,REG100292,9,15,15.69,Insured,Owned,Partial,399,19613475
+CNT1293,Contractor_293,Company_293,REG100293,20,81,8.02,Insured,Leased,Pending,218,33946950
+CNT1294,Contractor_294,Company_294,REG100294,21,44,52.07,Not Insured,Leased,Complete,256,29171896
+CNT1295,Contractor_295,Company_295,REG100295,6,64,45.01,Not Insured,Leased,Partial,126,17952583
+CNT1296,Contractor_296,Company_296,REG100296,24,73,57.9,Insured,Owned,Complete,64,30589160
+CNT1297,Contractor_297,Company_297,REG100297,5,80,52.75,Insured,Mixed,Partial,416,26566997
+CNT1298,Contractor_298,Company_298,REG100298,15,16,84.43,Insured,Owned,Partial,473,38218901
+CNT1299,Contractor_299,Company_299,REG100299,6,98,42.64,Insured,Leased,Pending,491,47630710
+CNT1300,Contractor_300,Company_300,REG100300,16,79,18.81,Not Insured,Leased,Complete,221,27187227
+CNT1301,Contractor_301,Company_301,REG100301,27,68,45.39,Not Insured,Mixed,Partial,378,37987623
+CNT1302,Contractor_302,Company_302,REG100302,29,51,41.86,Not Insured,Mixed,Pending,456,10826816
+CNT1303,Contractor_303,Company_303,REG100303,11,30,63.58,Not Insured,Mixed,Partial,399,29000254
+CNT1304,Contractor_304,Company_304,REG100304,27,100,16.98,Not Insured,Mixed,Complete,357,36908390
+CNT1305,Contractor_305,Company_305,REG100305,23,77,51.72,Not Insured,Mixed,Complete,495,24602581
+CNT1306,Contractor_306,Company_306,REG100306,15,21,45.41,Insured,Leased,Partial,495,35126125
+CNT1307,Contractor_307,Company_307,REG100307,5,100,53.29,Insured,Mixed,Partial,261,21207956
+CNT1308,Contractor_308,Company_308,REG100308,30,53,87.99,Insured,Leased,Complete,444,3622861
+CNT1309,Contractor_309,Company_309,REG100309,8,76,23.31,Not Insured,Owned,Complete,479,3576841
+CNT1310,Contractor_310,Company_310,REG100310,26,76,69.34,Insured,Leased,Complete,395,8200362
+CNT1311,Contractor_311,Company_311,REG100311,15,92,81.36,Not Insured,Owned,Partial,357,6412710
+CNT1312,Contractor_312,Company_312,REG100312,29,36,30.79,Insured,Owned,Pending,157,11879050
+CNT1313,Contractor_313,Company_313,REG100313,12,62,15,Not Insured,Mixed,Pending,103,7626183
+CNT1314,Contractor_314,Company_314,REG100314,22,27,36.26,Not Insured,Leased,Complete,373,10428488
+CNT1315,Contractor_315,Company_315,REG100315,18,13,76.91,Insured,Leased,Complete,149,49041833
+CNT1316,Contractor_316,Company_316,REG100316,22,49,17.32,Not Insured,Owned,Pending,253,24862964
+CNT1317,Contractor_317,Company_317,REG100317,9,87,39.43,Insured,Leased,Partial,337,20978849
+CNT1318,Contractor_318,Company_318,REG100318,15,98,49.07,Insured,Mixed,Pending,329,49257522
+CNT1319,Contractor_319,Company_319,REG100319,6,85,43.99,Insured,Owned,Pending,322,31841516
+CNT1320,Contractor_320,Company_320,REG100320,18,14,61.4,Insured,Owned,Partial,366,16568126
+CNT1321,Contractor_321,Company_321,REG100321,14,95,45.34,Not Insured,Owned,Complete,119,49243465
+CNT1322,Contractor_322,Company_322,REG100322,22,38,40.68,Not Insured,Leased,Partial,226,22042710
+CNT1323,Contractor_323,Company_323,REG100323,5,37,23.3,Insured,Owned,Partial,357,44361369
+CNT1324,Contractor_324,Company_324,REG100324,13,48,42.86,Insured,Leased,Pending,228,37936655
+CNT1325,Contractor_325,Company_325,REG100325,22,64,63.16,Insured,Owned,Pending,452,8096159
+CNT1326,Contractor_326,Company_326,REG100326,6,44,44.67,Insured,Mixed,Complete,455,10115986
+CNT1327,Contractor_327,Company_327,REG100327,7,72,19.24,Insured,Leased,Partial,363,39409854
+CNT1328,Contractor_328,Company_328,REG100328,26,50,71.49,Not Insured,Mixed,Complete,486,30793491
+CNT1329,Contractor_329,Company_329,REG100329,18,41,21.52,Insured,Mixed,Complete,334,9095540
+CNT1330,Contractor_330,Company_330,REG100330,15,59,91.54,Not Insured,Leased,Complete,166,29624992
+CNT1331,Contractor_331,Company_331,REG100331,23,77,91.78,Not Insured,Mixed,Partial,60,26867660
+CNT1332,Contractor_332,Company_332,REG100332,5,41,93.66,Insured,Leased,Pending,59,21294856
+CNT1333,Contractor_333,Company_333,REG100333,27,39,66.14,Not Insured,Owned,Partial,444,24581843
+CNT1334,Contractor_334,Company_334,REG100334,14,92,75.05,Not Insured,Leased,Pending,355,41624898
+CNT1335,Contractor_335,Company_335,REG100335,8,30,20.67,Insured,Owned,Complete,148,20996828
+CNT1336,Contractor_336,Company_336,REG100336,21,56,40.92,Not Insured,Owned,Partial,64,46988579
+CNT1337,Contractor_337,Company_337,REG100337,12,62,13.74,Not Insured,Leased,Complete,191,47058582
+CNT1338,Contractor_338,Company_338,REG100338,29,82,42.51,Not Insured,Mixed,Complete,434,18399457
+CNT1339,Contractor_339,Company_339,REG100339,18,26,64.9,Not Insured,Leased,Partial,174,39805676
+CNT1340,Contractor_340,Company_340,REG100340,6,31,14.56,Insured,Leased,Complete,423,32113516
+CNT1341,Contractor_341,Company_341,REG100341,26,75,84.12,Insured,Leased,Pending,419,39984459
+CNT1342,Contractor_342,Company_342,REG100342,29,92,13.54,Not Insured,Mixed,Complete,213,8078221
+CNT1343,Contractor_343,Company_343,REG100343,12,86,76.91,Not Insured,Owned,Complete,202,9794922
+CNT1344,Contractor_344,Company_344,REG100344,27,74,57.39,Insured,Mixed,Complete,126,2821352
+CNT1345,Contractor_345,Company_345,REG100345,10,21,85.55,Not Insured,Leased,Complete,354,47821854
+CNT1346,Contractor_346,Company_346,REG100346,18,16,5.95,Not Insured,Owned,Pending,230,17551176
+CNT1347,Contractor_347,Company_347,REG100347,12,97,43.93,Insured,Mixed,Pending,426,33774393
+CNT1348,Contractor_348,Company_348,REG100348,24,73,66.51,Not Insured,Owned,Pending,279,48034833
+CNT1349,Contractor_349,Company_349,REG100349,26,95,89.51,Insured,Leased,Pending,131,29245205
+CNT1350,Contractor_350,Company_350,REG100350,20,41,77.98,Not Insured,Leased,Partial,194,10000444
+CNT1351,Contractor_351,Company_351,REG100351,14,58,66.06,Not Insured,Owned,Partial,194,21666091
+CNT1352,Contractor_352,Company_352,REG100352,5,14,62.79,Not Insured,Leased,Partial,486,44334445
+CNT1353,Contractor_353,Company_353,REG100353,16,10,81.56,Insured,Owned,Complete,250,12430179
+CNT1354,Contractor_354,Company_354,REG100354,20,45,7.05,Not Insured,Mixed,Complete,313,6080967
+CNT1355,Contractor_355,Company_355,REG100355,21,15,6.63,Not Insured,Leased,Partial,414,34322159
+CNT1356,Contractor_356,Company_356,REG100356,18,85,26.81,Insured,Mixed,Complete,447,27092275
+CNT1357,Contractor_357,Company_357,REG100357,29,60,40.69,Not Insured,Leased,Pending,225,18947993
+CNT1358,Contractor_358,Company_358,REG100358,6,13,53.27,Not Insured,Owned,Partial,98,23303791
+CNT1359,Contractor_359,Company_359,REG100359,22,79,27.86,Insured,Owned,Partial,420,34410141
+CNT1360,Contractor_360,Company_360,REG100360,10,12,95.02,Insured,Leased,Complete,186,34701202
+CNT1361,Contractor_361,Company_361,REG100361,6,92,92.18,Not Insured,Leased,Partial,103,35145514
+CNT1362,Contractor_362,Company_362,REG100362,21,36,40.55,Insured,Owned,Complete,492,26557247
+CNT1363,Contractor_363,Company_363,REG100363,26,80,52.65,Not Insured,Leased,Partial,248,3520242
+CNT1364,Contractor_364,Company_364,REG100364,23,70,50.45,Not Insured,Leased,Pending,185,33176049
+CNT1365,Contractor_365,Company_365,REG100365,12,51,79.59,Insured,Mixed,Partial,55,49717010
+CNT1366,Contractor_366,Company_366,REG100366,13,59,87.36,Insured,Leased,Partial,53,20659576
+CNT1367,Contractor_367,Company_367,REG100367,20,56,9.16,Insured,Owned,Pending,425,17353430
+CNT1368,Contractor_368,Company_368,REG100368,23,15,73.17,Not Insured,Mixed,Partial,353,8514104
+CNT1369,Contractor_369,Company_369,REG100369,21,28,27.19,Not Insured,Owned,Partial,143,29096845
+CNT1370,Contractor_370,Company_370,REG100370,8,34,62.39,Not Insured,Owned,Partial,142,46805242
+CNT1371,Contractor_371,Company_371,REG100371,25,95,12.33,Insured,Mixed,Partial,278,32762705
+CNT1372,Contractor_372,Company_372,REG100372,24,69,42.12,Not Insured,Owned,Pending,456,15416864
+CNT1373,Contractor_373,Company_373,REG100373,10,55,30.46,Insured,Leased,Partial,258,27743483
+CNT1374,Contractor_374,Company_374,REG100374,17,38,88.09,Not Insured,Mixed,Partial,111,11270749
+CNT1375,Contractor_375,Company_375,REG100375,11,33,79.19,Not Insured,Owned,Partial,289,43891471
+CNT1376,Contractor_376,Company_376,REG100376,8,66,51.49,Insured,Mixed,Complete,493,10391679
+CNT1377,Contractor_377,Company_377,REG100377,6,17,35.97,Not Insured,Leased,Partial,256,13972312
+CNT1378,Contractor_378,Company_378,REG100378,7,60,69.24,Insured,Leased,Partial,316,27202092
+CNT1379,Contractor_379,Company_379,REG100379,28,29,71.56,Insured,Mixed,Partial,369,22039733
+CNT1380,Contractor_380,Company_380,REG100380,18,49,93.56,Insured,Leased,Pending,303,49059931
+CNT1381,Contractor_381,Company_381,REG100381,12,62,30.05,Insured,Leased,Complete,436,38491363
+CNT1382,Contractor_382,Company_382,REG100382,26,44,52.26,Insured,Leased,Partial,141,42424571
+CNT1383,Contractor_383,Company_383,REG100383,27,51,26.92,Not Insured,Owned,Pending,191,25016021
+CNT1384,Contractor_384,Company_384,REG100384,22,13,85.47,Not Insured,Mixed,Partial,122,32623570
+CNT1385,Contractor_385,Company_385,REG100385,24,29,66.54,Not Insured,Mixed,Complete,391,17511060
+CNT1386,Contractor_386,Company_386,REG100386,17,58,38.31,Insured,Leased,Partial,233,35001909
+CNT1387,Contractor_387,Company_387,REG100387,16,25,39.23,Insured,Owned,Pending,191,9384169
+CNT1388,Contractor_388,Company_388,REG100388,22,86,43.94,Not Insured,Owned,Pending,379,20833202
+CNT1389,Contractor_389,Company_389,REG100389,27,31,52.7,Insured,Owned,Pending,491,16975573
+CNT1390,Contractor_390,Company_390,REG100390,9,86,65.71,Not Insured,Mixed,Partial,289,16369442
+CNT1391,Contractor_391,Company_391,REG100391,30,14,46.27,Not Insured,Mixed,Partial,395,10712181
+CNT1392,Contractor_392,Company_392,REG100392,10,97,91.88,Not Insured,Mixed,Pending,145,13879666
+CNT1393,Contractor_393,Company_393,REG100393,7,51,17.41,Not Insured,Owned,Pending,365,11737726
+CNT1394,Contractor_394,Company_394,REG100394,29,60,63.11,Not Insured,Owned,Pending,253,44326098
+CNT1395,Contractor_395,Company_395,REG100395,19,58,93.91,Insured,Leased,Partial,140,13237921
+CNT1396,Contractor_396,Company_396,REG100396,26,97,91.96,Not Insured,Mixed,Pending,204,27369280
+CNT1397,Contractor_397,Company_397,REG100397,21,37,24.5,Not Insured,Mixed,Pending,270,11305731
+CNT1398,Contractor_398,Company_398,REG100398,21,49,63.66,Not Insured,Leased,Partial,185,42878260
+CNT1399,Contractor_399,Company_399,REG100399,18,85,5.35,Insured,Leased,Partial,366,39930938
+CNT1400,Contractor_400,Company_400,REG100400,15,15,44.81,Not Insured,Mixed,Complete,238,43464325
+CNT1401,Contractor_401,Company_401,REG100401,8,91,33.42,Not Insured,Leased,Complete,224,36181148
+CNT1402,Contractor_402,Company_402,REG100402,26,58,30.66,Insured,Mixed,Partial,369,3112023
+CNT1403,Contractor_403,Company_403,REG100403,6,94,20.31,Not Insured,Owned,Complete,302,7096263
+CNT1404,Contractor_404,Company_404,REG100404,18,96,61.38,Insured,Owned,Complete,494,44201312
+CNT1405,Contractor_405,Company_405,REG100405,25,86,80.03,Insured,Leased,Pending,355,25231068
+CNT1406,Contractor_406,Company_406,REG100406,13,86,79.32,Insured,Owned,Pending,276,33101628
+CNT1407,Contractor_407,Company_407,REG100407,5,85,63.72,Not Insured,Owned,Complete,174,18501005
+CNT1408,Contractor_408,Company_408,REG100408,12,79,89.11,Insured,Mixed,Pending,82,47244369
+CNT1409,Contractor_409,Company_409,REG100409,5,15,37.39,Insured,Mixed,Partial,400,6812564
+CNT1410,Contractor_410,Company_410,REG100410,23,34,27.68,Not Insured,Mixed,Pending,227,34250425
+CNT1411,Contractor_411,Company_411,REG100411,29,14,33.98,Insured,Owned,Partial,94,25710587
+CNT1412,Contractor_412,Company_412,REG100412,11,95,41.75,Insured,Mixed,Partial,489,4718008
+CNT1413,Contractor_413,Company_413,REG100413,16,72,44.93,Not Insured,Owned,Partial,361,38217430
+CNT1414,Contractor_414,Company_414,REG100414,13,61,6.63,Insured,Leased,Pending,154,40567010
+CNT1415,Contractor_415,Company_415,REG100415,13,63,92.41,Insured,Owned,Complete,308,49870964
+CNT1416,Contractor_416,Company_416,REG100416,14,56,64.74,Insured,Owned,Complete,295,13961330
+CNT1417,Contractor_417,Company_417,REG100417,5,21,58.5,Not Insured,Owned,Pending,119,45258098
+CNT1418,Contractor_418,Company_418,REG100418,28,73,37.71,Insured,Leased,Complete,121,16556715
+CNT1419,Contractor_419,Company_419,REG100419,18,58,7.19,Not Insured,Owned,Pending,251,43022470
+CNT1420,Contractor_420,Company_420,REG100420,26,26,95.61,Not Insured,Owned,Pending,361,16614820
+CNT1421,Contractor_421,Company_421,REG100421,18,100,62.39,Not Insured,Leased,Partial,335,38388056
+CNT1422,Contractor_422,Company_422,REG100422,13,16,58.78,Not Insured,Mixed,Pending,222,20934213
+CNT1423,Contractor_423,Company_423,REG100423,10,34,39.91,Insured,Owned,Complete,76,48855929
+CNT1424,Contractor_424,Company_424,REG100424,27,87,29.45,Not Insured,Mixed,Pending,218,44491757
+CNT1425,Contractor_425,Company_425,REG100425,7,30,60.16,Not Insured,Owned,Pending,370,17018145
+CNT1426,Contractor_426,Company_426,REG100426,22,11,21.5,Insured,Owned,Pending,456,41799721
+CNT1427,Contractor_427,Company_427,REG100427,5,23,57.47,Insured,Leased,Partial,404,47270397
+CNT1428,Contractor_428,Company_428,REG100428,6,63,36.28,Not Insured,Mixed,Partial,364,14512446
+CNT1429,Contractor_429,Company_429,REG100429,8,77,35.71,Not Insured,Leased,Partial,220,26969852
+CNT1430,Contractor_430,Company_430,REG100430,10,26,45.1,Not Insured,Owned,Partial,435,11717696
+CNT1431,Contractor_431,Company_431,REG100431,24,52,61.57,Not Insured,Mixed,Partial,56,26792561
+CNT1432,Contractor_432,Company_432,REG100432,26,28,82.53,Not Insured,Owned,Partial,482,43820680
+CNT1433,Contractor_433,Company_433,REG100433,20,83,71.52,Not Insured,Mixed,Pending,376,17332021
+CNT1434,Contractor_434,Company_434,REG100434,8,17,17.17,Insured,Mixed,Partial,262,35098127
+CNT1435,Contractor_435,Company_435,REG100435,18,14,14.49,Not Insured,Mixed,Complete,190,47059072
+CNT1436,Contractor_436,Company_436,REG100436,26,18,30.93,Insured,Owned,Partial,361,10703846
+CNT1437,Contractor_437,Company_437,REG100437,15,64,21.15,Not Insured,Mixed,Complete,116,5317986
+CNT1438,Contractor_438,Company_438,REG100438,28,18,54.23,Insured,Leased,Complete,105,41863035
+CNT1439,Contractor_439,Company_439,REG100439,13,91,98.11,Insured,Leased,Partial,484,24039993
+CNT1440,Contractor_440,Company_440,REG100440,9,88,51.04,Insured,Mixed,Partial,203,37377941
+CNT1441,Contractor_441,Company_441,REG100441,12,61,23.41,Insured,Mixed,Pending,338,6446949
+CNT1442,Contractor_442,Company_442,REG100442,12,85,47.68,Not Insured,Owned,Partial,499,23207840
+CNT1443,Contractor_443,Company_443,REG100443,14,26,9.4,Insured,Leased,Complete,438,29409902
+CNT1444,Contractor_444,Company_444,REG100444,29,67,62.69,Insured,Mixed,Complete,351,26858305
+CNT1445,Contractor_445,Company_445,REG100445,24,87,92.76,Insured,Owned,Partial,306,27551246
+CNT1446,Contractor_446,Company_446,REG100446,14,66,55.27,Not Insured,Leased,Complete,315,5256758
+CNT1447,Contractor_447,Company_447,REG100447,8,46,12.13,Insured,Owned,Partial,250,16170220
+CNT1448,Contractor_448,Company_448,REG100448,18,13,43.5,Insured,Owned,Pending,413,31367116
+CNT1449,Contractor_449,Company_449,REG100449,8,26,71.69,Insured,Owned,Pending,235,14624653
+CNT1450,Contractor_450,Company_450,REG100450,25,33,68.15,Insured,Mixed,Complete,63,5286576
+CNT1451,Contractor_451,Company_451,REG100451,6,62,73.92,Not Insured,Leased,Pending,292,18438735
+CNT1452,Contractor_452,Company_452,REG100452,8,81,89.02,Insured,Owned,Complete,463,14404063
+CNT1453,Contractor_453,Company_453,REG100453,14,26,27.81,Insured,Owned,Partial,431,47517235
+CNT1454,Contractor_454,Company_454,REG100454,6,20,76.18,Insured,Leased,Partial,281,18108990
+CNT1455,Contractor_455,Company_455,REG100455,10,82,33.92,Not Insured,Owned,Complete,487,32585074
+CNT1456,Contractor_456,Company_456,REG100456,14,29,63.79,Not Insured,Leased,Partial,175,33707411
+CNT1457,Contractor_457,Company_457,REG100457,20,42,38.6,Insured,Leased,Partial,257,12752606
+CNT1458,Contractor_458,Company_458,REG100458,10,52,9.37,Not Insured,Leased,Pending,497,16061532
+CNT1459,Contractor_459,Company_459,REG100459,25,61,12.61,Not Insured,Mixed,Pending,134,26499771
+CNT1460,Contractor_460,Company_460,REG100460,17,95,43.57,Not Insured,Leased,Pending,69,35824373
+CNT1461,Contractor_461,Company_461,REG100461,12,94,40.11,Not Insured,Owned,Complete,175,5385844
+CNT1462,Contractor_462,Company_462,REG100462,26,94,60.5,Not Insured,Owned,Partial,418,15697764
+CNT1463,Contractor_463,Company_463,REG100463,13,20,12.57,Not Insured,Owned,Pending,158,36180303
+CNT1464,Contractor_464,Company_464,REG100464,28,42,62.59,Insured,Owned,Pending,461,32002073
+CNT1465,Contractor_465,Company_465,REG100465,6,28,52.35,Not Insured,Owned,Pending,307,15983270
+CNT1466,Contractor_466,Company_466,REG100466,6,15,18.34,Insured,Leased,Pending,242,12426312
+CNT1467,Contractor_467,Company_467,REG100467,6,49,24.85,Insured,Leased,Partial,455,47587562
+CNT1468,Contractor_468,Company_468,REG100468,8,17,34.6,Insured,Owned,Complete,66,15478912
+CNT1469,Contractor_469,Company_469,REG100469,25,79,46.64,Insured,Owned,Complete,212,5461067
+CNT1470,Contractor_470,Company_470,REG100470,6,68,9.62,Insured,Leased,Complete,354,32310703
+CNT1471,Contractor_471,Company_471,REG100471,14,32,34.3,Not Insured,Mixed,Pending,354,30818225
+CNT1472,Contractor_472,Company_472,REG100472,21,11,85.71,Insured,Owned,Complete,332,10191865
+CNT1473,Contractor_473,Company_473,REG100473,29,91,86.03,Insured,Leased,Pending,378,32742328
+CNT1474,Contractor_474,Company_474,REG100474,5,72,14.04,Not Insured,Owned,Partial,426,30049459
+CNT1475,Contractor_475,Company_475,REG100475,12,62,17.65,Not Insured,Mixed,Pending,483,22875548
+CNT1476,Contractor_476,Company_476,REG100476,27,20,90.48,Insured,Owned,Partial,359,8040606
+CNT1477,Contractor_477,Company_477,REG100477,23,69,64.93,Insured,Owned,Partial,379,25627476
+CNT1478,Contractor_478,Company_478,REG100478,26,58,15.5,Not Insured,Leased,Partial,353,30607774
+CNT1479,Contractor_479,Company_479,REG100479,5,38,19.56,Not Insured,Owned,Complete,248,30394376
+CNT1480,Contractor_480,Company_480,REG100480,27,78,42.28,Not Insured,Owned,Pending,61,39174540
+CNT1481,Contractor_481,Company_481,REG100481,21,85,77.65,Not Insured,Owned,Complete,421,13037248
+CNT1482,Contractor_482,Company_482,REG100482,30,27,96.35,Not Insured,Mixed,Partial,154,26581411
+CNT1483,Contractor_483,Company_483,REG100483,11,82,33.27,Insured,Leased,Complete,221,15135638
+CNT1484,Contractor_484,Company_484,REG100484,7,56,54.89,Not Insured,Leased,Partial,335,42791781
+CNT1485,Contractor_485,Company_485,REG100485,17,31,44.27,Insured,Mixed,Partial,147,31958629
+CNT1486,Contractor_486,Company_486,REG100486,26,19,73.47,Insured,Leased,Partial,350,25172696
+CNT1487,Contractor_487,Company_487,REG100487,29,99,53.09,Insured,Mixed,Pending,207,44108473
+CNT1488,Contractor_488,Company_488,REG100488,30,42,63.87,Insured,Owned,Partial,153,12104881
+CNT1489,Contractor_489,Company_489,REG100489,16,52,20.45,Insured,Mixed,Pending,237,37856832
+CNT1490,Contractor_490,Company_490,REG100490,13,63,55.81,Insured,Mixed,Pending,141,30417625
+CNT1491,Contractor_491,Company_491,REG100491,25,29,70.41,Insured,Leased,Complete,278,46677991
+CNT1492,Contractor_492,Company_492,REG100492,19,91,61.27,Insured,Leased,Complete,403,33807620
+CNT1493,Contractor_493,Company_493,REG100493,29,65,93.96,Insured,Leased,Pending,354,10383925
+CNT1494,Contractor_494,Company_494,REG100494,29,67,19.83,Insured,Mixed,Partial,209,44463972
+CNT1495,Contractor_495,Company_495,REG100495,8,42,33.96,Insured,Leased,Pending,106,3788449
+CNT1496,Contractor_496,Company_496,REG100496,18,87,70.05,Insured,Owned,Partial,116,45358848
+CNT1497,Contractor_497,Company_497,REG100497,20,81,34.12,Insured,Mixed,Complete,258,40543302
+CNT1498,Contractor_498,Company_498,REG100498,20,91,22.26,Insured,Mixed,Complete,209,43995426
+CNT1499,Contractor_499,Company_499,REG100499,27,92,50.74,Not Insured,Leased,Complete,335,7094595
+CNT1500,Contractor_500,Company_500,REG100500,30,14,11.38,Not Insured,Owned,Partial,288,45144501
+CNT1501,Contractor_501,Company_501,REG100501,26,53,82.28,Not Insured,Owned,Complete,298,19084819
+CNT1502,Contractor_502,Company_502,REG100502,18,57,35.91,Not Insured,Mixed,Pending,153,14917067
+CNT1503,Contractor_503,Company_503,REG100503,22,54,84.69,Not Insured,Leased,Pending,464,48534083
+CNT1504,Contractor_504,Company_504,REG100504,27,11,37.22,Insured,Mixed,Complete,190,31644401
+CNT1505,Contractor_505,Company_505,REG100505,10,100,70.98,Insured,Owned,Complete,351,22878602
+CNT1506,Contractor_506,Company_506,REG100506,22,33,26.59,Insured,Mixed,Partial,445,30231055
+CNT1507,Contractor_507,Company_507,REG100507,18,84,96.97,Insured,Leased,Complete,453,22996657
+CNT1508,Contractor_508,Company_508,REG100508,21,41,61.29,Not Insured,Owned,Partial,446,40549600
+CNT1509,Contractor_509,Company_509,REG100509,13,77,21.99,Not Insured,Mixed,Pending,325,6626149
+CNT1510,Contractor_510,Company_510,REG100510,7,83,84.46,Insured,Mixed,Pending,395,41273984
+CNT1511,Contractor_511,Company_511,REG100511,12,50,43.05,Insured,Mixed,Pending,212,37744981
+CNT1512,Contractor_512,Company_512,REG100512,19,10,7.24,Not Insured,Mixed,Partial,339,11187937
+CNT1513,Contractor_513,Company_513,REG100513,8,97,47.76,Not Insured,Leased,Partial,350,42203673
+CNT1514,Contractor_514,Company_514,REG100514,10,63,74.7,Not Insured,Leased,Partial,409,38499282
+CNT1515,Contractor_515,Company_515,REG100515,29,70,62.5,Insured,Mixed,Complete,413,31017211
+CNT1516,Contractor_516,Company_516,REG100516,23,89,59.06,Insured,Mixed,Partial,78,19476189
+CNT1517,Contractor_517,Company_517,REG100517,19,92,33.95,Insured,Owned,Complete,179,48637029
+CNT1518,Contractor_518,Company_518,REG100518,30,73,47.11,Not Insured,Mixed,Pending,470,49837282
+CNT1519,Contractor_519,Company_519,REG100519,9,94,14.14,Insured,Mixed,Pending,320,49705662
+CNT1520,Contractor_520,Company_520,REG100520,14,21,46.72,Insured,Leased,Partial,224,16206254
+CNT1521,Contractor_521,Company_521,REG100521,18,53,28.91,Insured,Mixed,Partial,220,41405911
+CNT1522,Contractor_522,Company_522,REG100522,23,90,86.12,Insured,Mixed,Pending,444,33696440
+CNT1523,Contractor_523,Company_523,REG100523,12,54,7.45,Insured,Owned,Partial,247,34533663
+CNT1524,Contractor_524,Company_524,REG100524,7,79,29.17,Insured,Owned,Pending,403,47283887
+CNT1525,Contractor_525,Company_525,REG100525,13,61,69.06,Not Insured,Mixed,Complete,94,5509944
+CNT1526,Contractor_526,Company_526,REG100526,29,47,9.35,Insured,Mixed,Pending,297,46415144
+CNT1527,Contractor_527,Company_527,REG100527,16,81,73.2,Insured,Mixed,Partial,131,37851899
+CNT1528,Contractor_528,Company_528,REG100528,16,60,93.18,Not Insured,Mixed,Pending,424,8183663
+CNT1529,Contractor_529,Company_529,REG100529,24,79,95.11,Insured,Leased,Pending,306,37187645
+CNT1530,Contractor_530,Company_530,REG100530,11,70,30.34,Insured,Leased,Partial,139,28903506
+CNT1531,Contractor_531,Company_531,REG100531,10,79,68.04,Not Insured,Owned,Complete,93,43736340
+CNT1532,Contractor_532,Company_532,REG100532,22,55,36.52,Insured,Mixed,Partial,218,35118690
+CNT1533,Contractor_533,Company_533,REG100533,24,78,59.14,Not Insured,Mixed,Complete,492,25156699
+CNT1534,Contractor_534,Company_534,REG100534,10,43,25.08,Not Insured,Mixed,Partial,402,11630216
+CNT1535,Contractor_535,Company_535,REG100535,17,90,64.27,Not Insured,Leased,Pending,430,37464868
+CNT1536,Contractor_536,Company_536,REG100536,24,89,83.33,Insured,Owned,Complete,336,43009481
+CNT1537,Contractor_537,Company_537,REG100537,16,23,22.2,Insured,Leased,Complete,300,39813643
+CNT1538,Contractor_538,Company_538,REG100538,15,77,81.2,Insured,Leased,Partial,439,40349387
+CNT1539,Contractor_539,Company_539,REG100539,15,19,17.81,Not Insured,Mixed,Partial,295,9395959
+CNT1540,Contractor_540,Company_540,REG100540,17,75,9.82,Insured,Owned,Complete,84,47922072
+CNT1541,Contractor_541,Company_541,REG100541,7,55,9.07,Insured,Leased,Complete,481,30486240
+CNT1542,Contractor_542,Company_542,REG100542,29,99,98.39,Not Insured,Owned,Pending,320,45821882
+CNT1543,Contractor_543,Company_543,REG100543,29,48,39.52,Not Insured,Mixed,Complete,222,45190544
+CNT1544,Contractor_544,Company_544,REG100544,10,30,36.15,Insured,Mixed,Complete,350,38513406
+CNT1545,Contractor_545,Company_545,REG100545,27,75,60.87,Insured,Leased,Pending,115,49859186
+CNT1546,Contractor_546,Company_546,REG100546,12,88,23.56,Not Insured,Leased,Partial,488,15978201
+CNT1547,Contractor_547,Company_547,REG100547,10,42,59.8,Not Insured,Mixed,Complete,236,10573400
+CNT1548,Contractor_548,Company_548,REG100548,17,47,61.08,Not Insured,Leased,Pending,321,26310388
+CNT1549,Contractor_549,Company_549,REG100549,7,55,91.86,Insured,Leased,Pending,214,32601005
+CNT1550,Contractor_550,Company_550,REG100550,8,69,76.51,Not Insured,Leased,Partial,132,32795727
+CNT1551,Contractor_551,Company_551,REG100551,9,70,88.67,Not Insured,Owned,Partial,353,14662047
+CNT1552,Contractor_552,Company_552,REG100552,28,62,82.7,Not Insured,Owned,Complete,358,30731141
+CNT1553,Contractor_553,Company_553,REG100553,18,43,92.38,Insured,Owned,Pending,151,7703210
+CNT1554,Contractor_554,Company_554,REG100554,25,10,57.22,Insured,Owned,Pending,207,44616127
+CNT1555,Contractor_555,Company_555,REG100555,12,53,94.35,Not Insured,Mixed,Pending,259,36880618
+CNT1556,Contractor_556,Company_556,REG100556,27,49,77.85,Insured,Owned,Complete,401,11640335
+CNT1557,Contractor_557,Company_557,REG100557,11,88,12.39,Not Insured,Owned,Partial,100,39637694
+CNT1558,Contractor_558,Company_558,REG100558,29,16,87.08,Not Insured,Owned,Pending,215,2040309
+CNT1559,Contractor_559,Company_559,REG100559,23,89,95.81,Not Insured,Owned,Pending,81,8240039
+CNT1560,Contractor_560,Company_560,REG100560,24,28,80.21,Not Insured,Leased,Pending,139,40229982
+CNT1561,Contractor_561,Company_561,REG100561,18,69,28.53,Insured,Leased,Complete,204,8989293
+CNT1562,Contractor_562,Company_562,REG100562,30,70,52.76,Not Insured,Mixed,Complete,397,6539968
+CNT1563,Contractor_563,Company_563,REG100563,7,11,30.58,Not Insured,Leased,Partial,266,2739638
+CNT1564,Contractor_564,Company_564,REG100564,8,38,82.02,Insured,Owned,Partial,78,32853663
+CNT1565,Contractor_565,Company_565,REG100565,14,61,58.58,Insured,Mixed,Complete,146,8941918
+CNT1566,Contractor_566,Company_566,REG100566,27,14,66.98,Not Insured,Owned,Pending,271,28073257
+CNT1567,Contractor_567,Company_567,REG100567,12,70,58.03,Not Insured,Mixed,Partial,265,44993835
+CNT1568,Contractor_568,Company_568,REG100568,24,77,15.57,Insured,Leased,Complete,377,48479128
+CNT1569,Contractor_569,Company_569,REG100569,26,70,45.39,Insured,Mixed,Pending,445,5878146
+CNT1570,Contractor_570,Company_570,REG100570,20,93,18.48,Not Insured,Leased,Partial,167,36509472
+CNT1571,Contractor_571,Company_571,REG100571,11,65,96.42,Insured,Mixed,Partial,180,40986277
+CNT1572,Contractor_572,Company_572,REG100572,17,13,92.05,Not Insured,Leased,Pending,358,16136826
+CNT1573,Contractor_573,Company_573,REG100573,18,94,70.31,Insured,Owned,Pending,239,41820636
+CNT1574,Contractor_574,Company_574,REG100574,22,39,92.52,Not Insured,Owned,Partial,388,49558399
+CNT1575,Contractor_575,Company_575,REG100575,24,79,11.73,Not Insured,Leased,Pending,375,41603541
+CNT1576,Contractor_576,Company_576,REG100576,12,62,82.81,Insured,Leased,Complete,403,3525014
+CNT1577,Contractor_577,Company_577,REG100577,21,74,91.3,Insured,Leased,Complete,209,49393067
+CNT1578,Contractor_578,Company_578,REG100578,26,16,44.57,Not Insured,Leased,Pending,342,5153319
+CNT1579,Contractor_579,Company_579,REG100579,13,39,71.84,Not Insured,Owned,Complete,423,48404995
+CNT1580,Contractor_580,Company_580,REG100580,20,35,37.29,Insured,Mixed,Pending,474,40186814
+CNT1581,Contractor_581,Company_581,REG100581,10,99,56.9,Insured,Mixed,Pending,373,49483499
+CNT1582,Contractor_582,Company_582,REG100582,24,83,43.98,Not Insured,Leased,Complete,315,23935737
+CNT1583,Contractor_583,Company_583,REG100583,27,48,70.02,Insured,Owned,Pending,484,36520871
+CNT1584,Contractor_584,Company_584,REG100584,10,19,97.73,Insured,Leased,Partial,85,29258037
+CNT1585,Contractor_585,Company_585,REG100585,11,99,13.42,Insured,Leased,Pending,267,28243929
+CNT1586,Contractor_586,Company_586,REG100586,8,36,73.98,Insured,Mixed,Partial,58,5516018
+CNT1587,Contractor_587,Company_587,REG100587,28,96,42.32,Insured,Leased,Partial,118,18058265
+CNT1588,Contractor_588,Company_588,REG100588,24,23,38.91,Insured,Owned,Complete,67,39956746
+CNT1589,Contractor_589,Company_589,REG100589,7,57,9.44,Insured,Leased,Partial,208,30245199
+CNT1590,Contractor_590,Company_590,REG100590,14,95,48.24,Insured,Owned,Partial,162,6799373
+CNT1591,Contractor_591,Company_591,REG100591,6,32,85.28,Not Insured,Leased,Pending,406,11485936
+CNT1592,Contractor_592,Company_592,REG100592,15,75,62.57,Insured,Mixed,Pending,410,28121007
+CNT1593,Contractor_593,Company_593,REG100593,19,47,86.99,Not Insured,Owned,Partial,197,34517648
+CNT1594,Contractor_594,Company_594,REG100594,5,89,34.79,Not Insured,Owned,Partial,393,22977917
+CNT1595,Contractor_595,Company_595,REG100595,7,24,99.28,Insured,Owned,Partial,163,28500075
+CNT1596,Contractor_596,Company_596,REG100596,12,79,89.49,Insured,Leased,Pending,488,34081778
+CNT1597,Contractor_597,Company_597,REG100597,22,88,15.76,Insured,Owned,Partial,328,38282449
+CNT1598,Contractor_598,Company_598,REG100598,21,45,65.21,Insured,Leased,Partial,340,48848229
+CNT1599,Contractor_599,Company_599,REG100599,22,12,26.01,Insured,Leased,Pending,74,45540642
+CNT1600,Contractor_600,Company_600,REG100600,11,13,8.08,Insured,Mixed,Partial,255,5339121
+CNT1601,Contractor_601,Company_601,REG100601,13,59,73.46,Insured,Leased,Complete,338,18196200
+CNT1602,Contractor_602,Company_602,REG100602,23,50,27.55,Insured,Leased,Partial,279,10863116
+CNT1603,Contractor_603,Company_603,REG100603,16,60,78.05,Insured,Owned,Partial,365,24424743
+CNT1604,Contractor_604,Company_604,REG100604,27,83,78.14,Insured,Mixed,Partial,311,41661403
+CNT1605,Contractor_605,Company_605,REG100605,21,84,20.48,Insured,Leased,Partial,313,34792276
+CNT1606,Contractor_606,Company_606,REG100606,22,89,8.93,Not Insured,Owned,Partial,198,38185972
+CNT1607,Contractor_607,Company_607,REG100607,25,31,18.48,Insured,Leased,Complete,97,38568230
+CNT1608,Contractor_608,Company_608,REG100608,27,36,62.89,Insured,Mixed,Partial,161,6260271
+CNT1609,Contractor_609,Company_609,REG100609,8,85,37.05,Not Insured,Owned,Pending,188,21695520
+CNT1610,Contractor_610,Company_610,REG100610,30,14,56.84,Insured,Owned,Partial,387,48594506
+CNT1611,Contractor_611,Company_611,REG100611,22,72,13.24,Insured,Leased,Partial,319,23230802
+CNT1612,Contractor_612,Company_612,REG100612,5,20,46.59,Not Insured,Leased,Pending,491,25818608
+CNT1613,Contractor_613,Company_613,REG100613,14,53,45.45,Insured,Owned,Partial,421,4873240
+CNT1614,Contractor_614,Company_614,REG100614,23,49,18.76,Insured,Owned,Complete,115,33284164
+CNT1615,Contractor_615,Company_615,REG100615,11,68,72.91,Insured,Leased,Partial,318,49444298
+CNT1616,Contractor_616,Company_616,REG100616,23,60,25.16,Not Insured,Mixed,Complete,135,36858448
+CNT1617,Contractor_617,Company_617,REG100617,16,27,98.11,Not Insured,Mixed,Pending,83,47626674
+CNT1618,Contractor_618,Company_618,REG100618,12,60,56.02,Insured,Leased,Pending,391,38114963
+CNT1619,Contractor_619,Company_619,REG100619,20,62,83.09,Insured,Owned,Partial,97,38870368
+CNT1620,Contractor_620,Company_620,REG100620,14,51,70.76,Not Insured,Leased,Partial,56,37129275
+CNT1621,Contractor_621,Company_621,REG100621,28,89,60.73,Not Insured,Owned,Partial,440,43844980
+CNT1622,Contractor_622,Company_622,REG100622,17,25,12.21,Not Insured,Mixed,Partial,133,49996330
+CNT1623,Contractor_623,Company_623,REG100623,20,47,46.85,Insured,Mixed,Partial,468,21132581
+CNT1624,Contractor_624,Company_624,REG100624,18,44,81.82,Insured,Owned,Pending,325,29594209
+CNT1625,Contractor_625,Company_625,REG100625,30,87,49.84,Not Insured,Leased,Partial,153,27828471
+CNT1626,Contractor_626,Company_626,REG100626,26,79,15.02,Not Insured,Mixed,Partial,84,2103118
+CNT1627,Contractor_627,Company_627,REG100627,11,25,87.94,Insured,Owned,Pending,151,20657135
+CNT1628,Contractor_628,Company_628,REG100628,25,66,56.52,Not Insured,Leased,Partial,114,47037972
+CNT1629,Contractor_629,Company_629,REG100629,5,66,94.43,Not Insured,Owned,Partial,390,14357925
+CNT1630,Contractor_630,Company_630,REG100630,8,80,61.52,Insured,Owned,Pending,385,9860856
+CNT1631,Contractor_631,Company_631,REG100631,9,58,29.91,Not Insured,Mixed,Pending,453,38326056
+CNT1632,Contractor_632,Company_632,REG100632,9,34,65.09,Not Insured,Owned,Partial,129,37690473
+CNT1633,Contractor_633,Company_633,REG100633,24,73,31.31,Not Insured,Leased,Complete,300,24367254
+CNT1634,Contractor_634,Company_634,REG100634,30,100,35.65,Not Insured,Owned,Pending,380,29517968
+CNT1635,Contractor_635,Company_635,REG100635,7,93,28.16,Insured,Leased,Pending,160,44833845
+CNT1636,Contractor_636,Company_636,REG100636,17,100,93.97,Insured,Mixed,Complete,424,27134196
+CNT1637,Contractor_637,Company_637,REG100637,30,71,38.3,Not Insured,Owned,Pending,57,38319565
+CNT1638,Contractor_638,Company_638,REG100638,6,52,42.22,Insured,Mixed,Partial,103,18692545
+CNT1639,Contractor_639,Company_639,REG100639,23,83,32.17,Not Insured,Mixed,Partial,404,37001732
+CNT1640,Contractor_640,Company_640,REG100640,22,56,94.59,Not Insured,Leased,Complete,431,40605041
+CNT1641,Contractor_641,Company_641,REG100641,14,78,45.99,Not Insured,Leased,Pending,270,30491363
+CNT1642,Contractor_642,Company_642,REG100642,11,10,98.93,Not Insured,Owned,Partial,102,28663935
+CNT1643,Contractor_643,Company_643,REG100643,7,61,30.09,Insured,Leased,Partial,463,26940992
+CNT1644,Contractor_644,Company_644,REG100644,26,73,62.05,Insured,Leased,Complete,62,44303142
+CNT1645,Contractor_645,Company_645,REG100645,7,48,85.01,Insured,Owned,Partial,102,13535248
+CNT1646,Contractor_646,Company_646,REG100646,26,89,6.28,Not Insured,Leased,Partial,393,10112643
+CNT1647,Contractor_647,Company_647,REG100647,26,42,43.58,Insured,Owned,Complete,275,44252185
+CNT1648,Contractor_648,Company_648,REG100648,11,27,11.55,Not Insured,Owned,Complete,180,48958702
+CNT1649,Contractor_649,Company_649,REG100649,8,19,76.59,Not Insured,Owned,Partial,435,10195038
+CNT1650,Contractor_650,Company_650,REG100650,13,28,16.13,Insured,Owned,Complete,118,6519293
+CNT1651,Contractor_651,Company_651,REG100651,20,78,86.71,Insured,Mixed,Partial,444,33803200
+CNT1652,Contractor_652,Company_652,REG100652,12,80,46.42,Not Insured,Mixed,Partial,186,7088695
+CNT1653,Contractor_653,Company_653,REG100653,5,37,36.47,Not Insured,Mixed,Pending,480,10764508
+CNT1654,Contractor_654,Company_654,REG100654,19,24,10.45,Not Insured,Owned,Partial,268,14451971
+CNT1655,Contractor_655,Company_655,REG100655,25,94,22.78,Not Insured,Owned,Complete,484,10517039
+CNT1656,Contractor_656,Company_656,REG100656,15,82,38.21,Not Insured,Owned,Partial,420,24043610
+CNT1657,Contractor_657,Company_657,REG100657,12,98,63.94,Insured,Owned,Pending,63,24031780
+CNT1658,Contractor_658,Company_658,REG100658,27,40,91.05,Not Insured,Leased,Pending,413,37409901
+CNT1659,Contractor_659,Company_659,REG100659,27,12,25.7,Insured,Owned,Partial,154,20489125
+CNT1660,Contractor_660,Company_660,REG100660,23,78,21.34,Not Insured,Leased,Pending,377,9825886
+CNT1661,Contractor_661,Company_661,REG100661,12,69,16.21,Not Insured,Owned,Pending,243,12364166
+CNT1662,Contractor_662,Company_662,REG100662,17,63,83.47,Insured,Leased,Pending,275,35949447
+CNT1663,Contractor_663,Company_663,REG100663,30,16,41.5,Not Insured,Owned,Complete,409,49032898
+CNT1664,Contractor_664,Company_664,REG100664,15,23,65.38,Insured,Owned,Complete,103,3512924
+CNT1665,Contractor_665,Company_665,REG100665,24,92,27,Not Insured,Leased,Partial,155,39584846
+CNT1666,Contractor_666,Company_666,REG100666,29,52,91.06,Insured,Leased,Partial,445,30598569
+CNT1667,Contractor_667,Company_667,REG100667,21,99,80.7,Insured,Leased,Complete,400,38836269
+CNT1668,Contractor_668,Company_668,REG100668,5,23,68.96,Not Insured,Leased,Pending,111,9871657
+CNT1669,Contractor_669,Company_669,REG100669,9,19,71.13,Not Insured,Leased,Partial,330,26983236
+CNT1670,Contractor_670,Company_670,REG100670,26,30,35.84,Not Insured,Owned,Partial,348,40185208
+CNT1671,Contractor_671,Company_671,REG100671,14,38,81.42,Not Insured,Leased,Complete,170,24314344
+CNT1672,Contractor_672,Company_672,REG100672,19,93,66.35,Insured,Owned,Partial,198,10775317
+CNT1673,Contractor_673,Company_673,REG100673,17,61,16.25,Insured,Leased,Pending,257,32846021
+CNT1674,Contractor_674,Company_674,REG100674,18,76,13.82,Not Insured,Owned,Complete,100,41124703
+CNT1675,Contractor_675,Company_675,REG100675,8,70,7.97,Insured,Mixed,Partial,147,22028754
+CNT1676,Contractor_676,Company_676,REG100676,26,31,32.33,Not Insured,Owned,Partial,280,42980335
+CNT1677,Contractor_677,Company_677,REG100677,19,82,28.59,Not Insured,Leased,Complete,151,3249599
+CNT1678,Contractor_678,Company_678,REG100678,8,55,61.36,Not Insured,Mixed,Partial,128,8206987
+CNT1679,Contractor_679,Company_679,REG100679,5,60,77.83,Insured,Mixed,Partial,463,45380970
+CNT1680,Contractor_680,Company_680,REG100680,6,64,58.35,Not Insured,Leased,Complete,170,11133870
+CNT1681,Contractor_681,Company_681,REG100681,11,73,88.45,Insured,Leased,Partial,182,44485681
+CNT1682,Contractor_682,Company_682,REG100682,30,34,90.69,Insured,Leased,Pending,395,9376361
+CNT1683,Contractor_683,Company_683,REG100683,5,66,17.24,Not Insured,Mixed,Pending,455,36293968
+CNT1684,Contractor_684,Company_684,REG100684,26,15,52.1,Not Insured,Owned,Partial,212,24591362
+CNT1685,Contractor_685,Company_685,REG100685,18,83,72.24,Not Insured,Leased,Complete,345,47243798
+CNT1686,Contractor_686,Company_686,REG100686,11,88,66.34,Insured,Mixed,Partial,220,30317511
+CNT1687,Contractor_687,Company_687,REG100687,15,54,17.61,Insured,Mixed,Pending,375,39400320
+CNT1688,Contractor_688,Company_688,REG100688,25,93,57.22,Not Insured,Leased,Partial,425,11618977
+CNT1689,Contractor_689,Company_689,REG100689,26,11,79.81,Insured,Owned,Complete,373,22650119
+CNT1690,Contractor_690,Company_690,REG100690,16,49,29.28,Insured,Owned,Complete,242,9345708
+CNT1691,Contractor_691,Company_691,REG100691,15,44,49.46,Not Insured,Owned,Pending,242,39025234
+CNT1692,Contractor_692,Company_692,REG100692,26,76,9.51,Not Insured,Mixed,Pending,194,47543396
+CNT1693,Contractor_693,Company_693,REG100693,26,54,87.47,Insured,Leased,Partial,245,19308213
+CNT1694,Contractor_694,Company_694,REG100694,26,76,89.21,Insured,Leased,Partial,257,9990371
+CNT1695,Contractor_695,Company_695,REG100695,30,61,68.59,Not Insured,Leased,Pending,196,47660892
+CNT1696,Contractor_696,Company_696,REG100696,19,62,88.09,Not Insured,Leased,Pending,317,41291032
+CNT1697,Contractor_697,Company_697,REG100697,7,94,54.38,Insured,Leased,Complete,151,18953523
+CNT1698,Contractor_698,Company_698,REG100698,19,87,54.18,Insured,Owned,Partial,436,35697736
+CNT1699,Contractor_699,Company_699,REG100699,9,89,87.07,Not Insured,Leased,Complete,85,47367857
+CNT1700,Contractor_700,Company_700,REG100700,8,69,65.24,Insured,Mixed,Pending,55,48622125
+CNT1701,Contractor_701,Company_701,REG100701,28,100,12.19,Not Insured,Leased,Pending,331,48515184
+CNT1702,Contractor_702,Company_702,REG100702,26,15,23.3,Insured,Owned,Complete,153,26091560
+CNT1703,Contractor_703,Company_703,REG100703,18,35,39.85,Not Insured,Owned,Complete,168,27975937
+CNT1704,Contractor_704,Company_704,REG100704,18,62,12.71,Insured,Owned,Pending,123,8643122
+CNT1705,Contractor_705,Company_705,REG100705,5,92,47.77,Insured,Owned,Pending,361,6231168
+CNT1706,Contractor_706,Company_706,REG100706,19,88,53.66,Not Insured,Leased,Partial,304,20509068
+CNT1707,Contractor_707,Company_707,REG100707,18,78,28.41,Not Insured,Owned,Complete,78,45225400
+CNT1708,Contractor_708,Company_708,REG100708,15,58,68.01,Insured,Leased,Pending,235,29745140
+CNT1709,Contractor_709,Company_709,REG100709,19,65,8.11,Insured,Mixed,Partial,59,36956050
+CNT1710,Contractor_710,Company_710,REG100710,11,89,53.93,Insured,Leased,Partial,298,48783127
+CNT1711,Contractor_711,Company_711,REG100711,17,93,98.76,Insured,Leased,Pending,348,34807507
+CNT1712,Contractor_712,Company_712,REG100712,25,54,23.48,Insured,Mixed,Pending,104,3123901
+CNT1713,Contractor_713,Company_713,REG100713,29,82,47.29,Insured,Owned,Partial,185,41011100
+CNT1714,Contractor_714,Company_714,REG100714,8,38,82.14,Insured,Mixed,Complete,358,42405523
+CNT1715,Contractor_715,Company_715,REG100715,26,63,5.09,Not Insured,Owned,Partial,490,19184321
+CNT1716,Contractor_716,Company_716,REG100716,20,71,78.37,Not Insured,Leased,Pending,287,9737507
+CNT1717,Contractor_717,Company_717,REG100717,29,31,96.27,Insured,Leased,Pending,344,4985082
+CNT1718,Contractor_718,Company_718,REG100718,12,78,57.49,Not Insured,Leased,Pending,63,34875901
+CNT1719,Contractor_719,Company_719,REG100719,7,99,42.66,Not Insured,Mixed,Complete,309,31300461
+CNT1720,Contractor_720,Company_720,REG100720,13,20,7.09,Not Insured,Owned,Complete,121,16430721
+CNT1721,Contractor_721,Company_721,REG100721,27,92,86.67,Insured,Owned,Pending,289,45939901
+CNT1722,Contractor_722,Company_722,REG100722,6,83,51.97,Not Insured,Mixed,Complete,356,42024548
+CNT1723,Contractor_723,Company_723,REG100723,19,34,30.48,Not Insured,Leased,Complete,203,5409333
+CNT1724,Contractor_724,Company_724,REG100724,10,88,67.09,Not Insured,Mixed,Pending,423,26591365
+CNT1725,Contractor_725,Company_725,REG100725,7,18,91.68,Insured,Mixed,Complete,449,22525610
+CNT1726,Contractor_726,Company_726,REG100726,16,84,32.11,Not Insured,Leased,Complete,88,29638788
+CNT1727,Contractor_727,Company_727,REG100727,10,17,79.4,Not Insured,Owned,Partial,421,14771001
+CNT1728,Contractor_728,Company_728,REG100728,9,18,91.77,Insured,Owned,Complete,185,47733949
+CNT1729,Contractor_729,Company_729,REG100729,13,14,70.19,Insured,Mixed,Partial,489,33974027
+CNT1730,Contractor_730,Company_730,REG100730,10,73,30.3,Not Insured,Leased,Pending,460,41074153
+CNT1731,Contractor_731,Company_731,REG100731,30,33,31.05,Insured,Mixed,Pending,328,45661414
+CNT1732,Contractor_732,Company_732,REG100732,13,96,74.2,Insured,Owned,Partial,89,26249815
+CNT1733,Contractor_733,Company_733,REG100733,15,52,98.46,Insured,Leased,Pending,490,7047074
+CNT1734,Contractor_734,Company_734,REG100734,17,40,25.27,Not Insured,Owned,Partial,298,22665476
+CNT1735,Contractor_735,Company_735,REG100735,5,11,85.96,Not Insured,Leased,Pending,475,10052127
+CNT1736,Contractor_736,Company_736,REG100736,27,95,89.37,Not Insured,Mixed,Partial,77,22696214
+CNT1737,Contractor_737,Company_737,REG100737,11,56,19.13,Not Insured,Mixed,Complete,325,22979800
+CNT1738,Contractor_738,Company_738,REG100738,16,63,53.96,Not Insured,Leased,Pending,141,25298030
+CNT1739,Contractor_739,Company_739,REG100739,16,18,50.86,Not Insured,Mixed,Pending,374,41729634
+CNT1740,Contractor_740,Company_740,REG100740,8,39,61.43,Not Insured,Owned,Pending,461,23243261
+CNT1741,Contractor_741,Company_741,REG100741,30,86,53.47,Not Insured,Leased,Pending,204,27773999
+CNT1742,Contractor_742,Company_742,REG100742,10,42,68.17,Not Insured,Mixed,Partial,171,5014087
+CNT1743,Contractor_743,Company_743,REG100743,19,19,53.91,Not Insured,Mixed,Partial,361,16742503
+CNT1744,Contractor_744,Company_744,REG100744,16,12,61.12,Not Insured,Owned,Partial,175,20028467
+CNT1745,Contractor_745,Company_745,REG100745,22,77,45.57,Insured,Mixed,Partial,186,37026554
+CNT1746,Contractor_746,Company_746,REG100746,20,66,43.36,Insured,Owned,Complete,491,9658119
+CNT1747,Contractor_747,Company_747,REG100747,20,65,62.02,Insured,Leased,Partial,364,41440702
+CNT1748,Contractor_748,Company_748,REG100748,27,92,97.78,Not Insured,Mixed,Pending,437,24994177
+CNT1749,Contractor_749,Company_749,REG100749,10,13,52.56,Not Insured,Leased,Complete,284,21034237
+CNT1750,Contractor_750,Company_750,REG100750,5,51,48.35,Insured,Leased,Complete,293,11190290
+CNT1751,Contractor_751,Company_751,REG100751,27,43,44.51,Not Insured,Leased,Pending,119,22263661
+CNT1752,Contractor_752,Company_752,REG100752,27,43,79.65,Insured,Owned,Pending,223,40990765
+CNT1753,Contractor_753,Company_753,REG100753,8,24,62.31,Insured,Owned,Complete,199,37268322
+CNT1754,Contractor_754,Company_754,REG100754,24,44,99.21,Insured,Owned,Pending,178,39516221
+CNT1755,Contractor_755,Company_755,REG100755,25,93,14.02,Not Insured,Owned,Pending,389,23114357
+CNT1756,Contractor_756,Company_756,REG100756,15,73,11.22,Insured,Owned,Partial,242,33447265
+CNT1757,Contractor_757,Company_757,REG100757,13,59,15.37,Not Insured,Mixed,Pending,334,34593487
+CNT1758,Contractor_758,Company_758,REG100758,6,16,34.03,Not Insured,Mixed,Complete,457,32357548
+CNT1759,Contractor_759,Company_759,REG100759,14,65,97.39,Insured,Owned,Complete,286,23109555
+CNT1760,Contractor_760,Company_760,REG100760,19,99,36.29,Not Insured,Owned,Pending,485,28746022
+CNT1761,Contractor_761,Company_761,REG100761,25,75,29.99,Not Insured,Owned,Complete,243,38011265
+CNT1762,Contractor_762,Company_762,REG100762,27,25,18.69,Insured,Owned,Complete,382,8462217
+CNT1763,Contractor_763,Company_763,REG100763,5,55,38.81,Insured,Mixed,Partial,438,34121403
+CNT1764,Contractor_764,Company_764,REG100764,16,52,65.83,Not Insured,Leased,Pending,259,7286761
+CNT1765,Contractor_765,Company_765,REG100765,20,32,40.3,Not Insured,Owned,Complete,245,2072297
+CNT1766,Contractor_766,Company_766,REG100766,7,62,37.08,Insured,Leased,Partial,180,43174786
+CNT1767,Contractor_767,Company_767,REG100767,8,14,98.98,Not Insured,Leased,Complete,216,34559019
+CNT1768,Contractor_768,Company_768,REG100768,15,72,91.15,Insured,Leased,Pending,219,32660744
+CNT1769,Contractor_769,Company_769,REG100769,22,22,86.88,Not Insured,Mixed,Complete,265,34408061
+CNT1770,Contractor_770,Company_770,REG100770,28,77,96.39,Insured,Mixed,Partial,134,13662138
+CNT1771,Contractor_771,Company_771,REG100771,26,16,73.25,Not Insured,Mixed,Partial,455,20326398
+CNT1772,Contractor_772,Company_772,REG100772,29,56,18.22,Insured,Leased,Complete,141,23718510
+CNT1773,Contractor_773,Company_773,REG100773,22,25,35.97,Insured,Owned,Pending,102,45314925
+CNT1774,Contractor_774,Company_774,REG100774,19,98,70.46,Not Insured,Owned,Pending,133,13896619
+CNT1775,Contractor_775,Company_775,REG100775,9,97,89.44,Not Insured,Owned,Partial,139,22508771
+CNT1776,Contractor_776,Company_776,REG100776,27,44,83.56,Insured,Leased,Complete,314,16555966
+CNT1777,Contractor_777,Company_777,REG100777,5,68,62.33,Not Insured,Owned,Complete,59,28518619
+CNT1778,Contractor_778,Company_778,REG100778,27,51,13.13,Not Insured,Owned,Complete,191,24067205
+CNT1779,Contractor_779,Company_779,REG100779,16,55,35.74,Insured,Mixed,Complete,311,14284511
+CNT1780,Contractor_780,Company_780,REG100780,29,27,79.59,Not Insured,Leased,Pending,494,38490469
+CNT1781,Contractor_781,Company_781,REG100781,14,70,56.52,Insured,Owned,Partial,275,30829663
+CNT1782,Contractor_782,Company_782,REG100782,11,42,45.88,Insured,Mixed,Pending,69,33521580
+CNT1783,Contractor_783,Company_783,REG100783,8,97,92.49,Insured,Mixed,Pending,117,34964156
+CNT1784,Contractor_784,Company_784,REG100784,9,33,89.02,Not Insured,Owned,Pending,355,49151702
+CNT1785,Contractor_785,Company_785,REG100785,6,59,50.79,Not Insured,Mixed,Partial,86,19098241
+CNT1786,Contractor_786,Company_786,REG100786,29,10,34.51,Insured,Leased,Partial,238,5198965
+CNT1787,Contractor_787,Company_787,REG100787,16,96,57.78,Not Insured,Leased,Partial,172,7022848
+CNT1788,Contractor_788,Company_788,REG100788,20,86,74.71,Not Insured,Leased,Pending,254,45780080
+CNT1789,Contractor_789,Company_789,REG100789,26,69,11.13,Insured,Owned,Partial,172,17263960
+CNT1790,Contractor_790,Company_790,REG100790,26,40,52.93,Not Insured,Leased,Partial,63,43810649
+CNT1791,Contractor_791,Company_791,REG100791,14,87,16.88,Insured,Owned,Pending,427,10398153
+CNT1792,Contractor_792,Company_792,REG100792,26,98,9.94,Insured,Mixed,Pending,244,22794972
+CNT1793,Contractor_793,Company_793,REG100793,21,13,62.52,Not Insured,Mixed,Partial,62,38924218
+CNT1794,Contractor_794,Company_794,REG100794,30,88,36.3,Not Insured,Mixed,Partial,181,46385777
+CNT1795,Contractor_795,Company_795,REG100795,23,30,27.41,Not Insured,Owned,Pending,231,44197298
+CNT1796,Contractor_796,Company_796,REG100796,10,59,32.74,Not Insured,Owned,Partial,304,37012333
+CNT1797,Contractor_797,Company_797,REG100797,10,86,72.49,Insured,Mixed,Partial,181,43753401
+CNT1798,Contractor_798,Company_798,REG100798,7,64,14.04,Not Insured,Leased,Partial,490,26400573
+CNT1799,Contractor_799,Company_799,REG100799,28,28,35.06,Insured,Leased,Complete,162,22566329
+CNT1800,Contractor_800,Company_800,REG100800,9,76,41.59,Insured,Leased,Pending,265,2483195
+CNT1801,Contractor_801,Company_801,REG100801,23,86,92.01,Not Insured,Owned,Complete,297,43459813
+CNT1802,Contractor_802,Company_802,REG100802,17,19,12.94,Not Insured,Mixed,Pending,269,39403392
+CNT1803,Contractor_803,Company_803,REG100803,11,93,86.37,Not Insured,Owned,Partial,241,48486148
+CNT1804,Contractor_804,Company_804,REG100804,15,65,47.22,Not Insured,Leased,Partial,466,41638703
+CNT1805,Contractor_805,Company_805,REG100805,25,30,50.64,Not Insured,Owned,Partial,84,38521922
+CNT1806,Contractor_806,Company_806,REG100806,25,21,46.35,Insured,Leased,Complete,377,34530955
+CNT1807,Contractor_807,Company_807,REG100807,28,36,70.81,Not Insured,Mixed,Complete,200,13273730
+CNT1808,Contractor_808,Company_808,REG100808,27,10,79.97,Not Insured,Owned,Partial,355,9489913
+CNT1809,Contractor_809,Company_809,REG100809,19,88,7.41,Insured,Leased,Complete,276,12938910
+CNT1810,Contractor_810,Company_810,REG100810,21,63,53.01,Not Insured,Mixed,Complete,295,7448885
+CNT1811,Contractor_811,Company_811,REG100811,9,32,78.73,Not Insured,Mixed,Complete,67,24956948
+CNT1812,Contractor_812,Company_812,REG100812,19,34,57.74,Not Insured,Owned,Complete,433,43356895
+CNT1813,Contractor_813,Company_813,REG100813,12,79,69.63,Not Insured,Owned,Pending,381,16169858
+CNT1814,Contractor_814,Company_814,REG100814,15,35,25.18,Not Insured,Leased,Pending,133,24743142
+CNT1815,Contractor_815,Company_815,REG100815,22,57,61.08,Not Insured,Mixed,Partial,376,48505593
+CNT1816,Contractor_816,Company_816,REG100816,6,61,35.23,Insured,Leased,Complete,379,31656281
+CNT1817,Contractor_817,Company_817,REG100817,25,45,9.09,Not Insured,Leased,Pending,145,17877410
+CNT1818,Contractor_818,Company_818,REG100818,6,91,58.59,Not Insured,Owned,Pending,219,7354114
+CNT1819,Contractor_819,Company_819,REG100819,17,46,88.8,Not Insured,Leased,Complete,388,21267966
+CNT1820,Contractor_820,Company_820,REG100820,15,78,59.53,Not Insured,Owned,Pending,464,36371372
+CNT1821,Contractor_821,Company_821,REG100821,10,65,24.72,Insured,Owned,Complete,136,34590123
+CNT1822,Contractor_822,Company_822,REG100822,14,73,13.67,Not Insured,Owned,Complete,462,6092366
+CNT1823,Contractor_823,Company_823,REG100823,17,47,75.9,Not Insured,Leased,Pending,461,31310838
+CNT1824,Contractor_824,Company_824,REG100824,14,32,95.45,Not Insured,Mixed,Complete,152,3816706
+CNT1825,Contractor_825,Company_825,REG100825,29,76,21.69,Not Insured,Leased,Complete,498,13048226
+CNT1826,Contractor_826,Company_826,REG100826,19,68,88.98,Insured,Leased,Complete,422,25899371
+CNT1827,Contractor_827,Company_827,REG100827,24,100,85.8,Not Insured,Owned,Partial,79,48705344
+CNT1828,Contractor_828,Company_828,REG100828,17,62,73.78,Not Insured,Owned,Partial,127,33971626
+CNT1829,Contractor_829,Company_829,REG100829,15,57,81.9,Insured,Owned,Partial,430,35500245
+CNT1830,Contractor_830,Company_830,REG100830,15,85,78.13,Insured,Leased,Pending,95,2012169
+CNT1831,Contractor_831,Company_831,REG100831,9,23,91.57,Not Insured,Leased,Pending,306,17146704
+CNT1832,Contractor_832,Company_832,REG100832,21,26,47.91,Not Insured,Owned,Partial,196,12618593
+CNT1833,Contractor_833,Company_833,REG100833,17,48,93.62,Not Insured,Mixed,Complete,334,44063626
+CNT1834,Contractor_834,Company_834,REG100834,16,78,74.43,Not Insured,Leased,Complete,98,36743819
+CNT1835,Contractor_835,Company_835,REG100835,30,93,16.34,Insured,Mixed,Complete,57,7839116
+CNT1836,Contractor_836,Company_836,REG100836,15,18,60.14,Not Insured,Leased,Complete,123,4605411
+CNT1837,Contractor_837,Company_837,REG100837,12,98,64.53,Not Insured,Mixed,Partial,322,31589291
+CNT1838,Contractor_838,Company_838,REG100838,5,16,51.22,Insured,Owned,Partial,169,26258170
+CNT1839,Contractor_839,Company_839,REG100839,10,39,78.65,Not Insured,Leased,Pending,84,12044683
+CNT1840,Contractor_840,Company_840,REG100840,22,14,15.87,Not Insured,Leased,Complete,270,28109774
+CNT1841,Contractor_841,Company_841,REG100841,12,92,90.31,Not Insured,Owned,Partial,218,47286056
+CNT1842,Contractor_842,Company_842,REG100842,6,95,41.51,Insured,Mixed,Partial,411,20487401
+CNT1843,Contractor_843,Company_843,REG100843,5,33,38.66,Insured,Leased,Partial,480,29808926
+CNT1844,Contractor_844,Company_844,REG100844,23,21,78.92,Insured,Mixed,Complete,343,44727653
+CNT1845,Contractor_845,Company_845,REG100845,19,68,8.16,Insured,Owned,Complete,82,36030844
+CNT1846,Contractor_846,Company_846,REG100846,27,20,14.73,Not Insured,Mixed,Complete,455,10320351
+CNT1847,Contractor_847,Company_847,REG100847,21,82,94.31,Not Insured,Leased,Complete,96,30808689
+CNT1848,Contractor_848,Company_848,REG100848,30,74,72.92,Insured,Mixed,Partial,249,26914669
+CNT1849,Contractor_849,Company_849,REG100849,5,24,24,Not Insured,Owned,Pending,473,14442991
+CNT1850,Contractor_850,Company_850,REG100850,7,22,91.51,Not Insured,Mixed,Partial,354,19028771
+CNT1851,Contractor_851,Company_851,REG100851,20,44,15.94,Not Insured,Leased,Pending,217,27457614
+CNT1852,Contractor_852,Company_852,REG100852,24,55,39.61,Insured,Mixed,Pending,376,44658430
+CNT1853,Contractor_853,Company_853,REG100853,15,34,15.54,Not Insured,Leased,Pending,334,40917435
+CNT1854,Contractor_854,Company_854,REG100854,8,55,12.09,Insured,Owned,Partial,481,24864116
+CNT1855,Contractor_855,Company_855,REG100855,26,21,13.92,Not Insured,Mixed,Complete,121,5049603
+CNT1856,Contractor_856,Company_856,REG100856,6,51,75.64,Insured,Leased,Partial,213,9382383
+CNT1857,Contractor_857,Company_857,REG100857,27,45,33.81,Insured,Mixed,Complete,389,14458766
+CNT1858,Contractor_858,Company_858,REG100858,10,87,29.42,Insured,Leased,Partial,132,12402541
+CNT1859,Contractor_859,Company_859,REG100859,28,31,40.54,Insured,Leased,Pending,361,16217266
+CNT1860,Contractor_860,Company_860,REG100860,15,33,46.77,Not Insured,Owned,Pending,408,33529298
+CNT1861,Contractor_861,Company_861,REG100861,10,73,97.63,Insured,Mixed,Pending,53,15967267
+CNT1862,Contractor_862,Company_862,REG100862,23,26,19.99,Not Insured,Owned,Pending,111,39742482
+CNT1863,Contractor_863,Company_863,REG100863,7,57,81.84,Not Insured,Leased,Partial,317,14712936
+CNT1864,Contractor_864,Company_864,REG100864,23,70,97.27,Insured,Mixed,Complete,452,15408817
+CNT1865,Contractor_865,Company_865,REG100865,8,51,55.65,Not Insured,Owned,Pending,443,24034227
+CNT1866,Contractor_866,Company_866,REG100866,26,97,85.89,Not Insured,Leased,Pending,238,4738977
+CNT1867,Contractor_867,Company_867,REG100867,25,61,20.89,Not Insured,Leased,Partial,309,49265462
+CNT1868,Contractor_868,Company_868,REG100868,23,43,99.69,Insured,Owned,Partial,314,5587737
+CNT1869,Contractor_869,Company_869,REG100869,24,96,81.37,Insured,Mixed,Complete,165,40149720
+CNT1870,Contractor_870,Company_870,REG100870,10,64,72.07,Not Insured,Mixed,Partial,346,7357892
+CNT1871,Contractor_871,Company_871,REG100871,16,74,52.42,Not Insured,Leased,Partial,280,46824683
+CNT1872,Contractor_872,Company_872,REG100872,24,64,69.26,Insured,Leased,Partial,207,12546457
+CNT1873,Contractor_873,Company_873,REG100873,30,52,69.16,Not Insured,Mixed,Complete,133,45059809
+CNT1874,Contractor_874,Company_874,REG100874,18,45,68.78,Not Insured,Mixed,Partial,238,33713441
+CNT1875,Contractor_875,Company_875,REG100875,13,81,60.32,Not Insured,Owned,Pending,250,5541333
+CNT1876,Contractor_876,Company_876,REG100876,27,95,22.75,Not Insured,Owned,Partial,298,22878975
+CNT1877,Contractor_877,Company_877,REG100877,27,33,59.09,Insured,Owned,Complete,194,34736535
+CNT1878,Contractor_878,Company_878,REG100878,26,33,40.72,Insured,Mixed,Partial,499,40708911
+CNT1879,Contractor_879,Company_879,REG100879,25,91,68.92,Insured,Owned,Complete,282,45722548
+CNT1880,Contractor_880,Company_880,REG100880,6,28,48.92,Not Insured,Leased,Complete,347,45701540
+CNT1881,Contractor_881,Company_881,REG100881,20,76,34.42,Not Insured,Leased,Complete,497,16492684
+CNT1882,Contractor_882,Company_882,REG100882,13,22,5.74,Insured,Leased,Complete,453,12853098
+CNT1883,Contractor_883,Company_883,REG100883,11,26,5.05,Not Insured,Leased,Complete,482,11944208
+CNT1884,Contractor_884,Company_884,REG100884,23,62,41.23,Not Insured,Owned,Partial,373,5891677
+CNT1885,Contractor_885,Company_885,REG100885,16,43,55.4,Insured,Owned,Complete,277,44686391
+CNT1886,Contractor_886,Company_886,REG100886,29,61,10.06,Not Insured,Mixed,Pending,211,26082986
+CNT1887,Contractor_887,Company_887,REG100887,22,60,20.6,Insured,Leased,Partial,378,10330878
+CNT1888,Contractor_888,Company_888,REG100888,9,18,38.47,Not Insured,Leased,Complete,142,3533626
+CNT1889,Contractor_889,Company_889,REG100889,12,91,31.21,Not Insured,Leased,Partial,241,45894426
+CNT1890,Contractor_890,Company_890,REG100890,8,65,91.58,Insured,Mixed,Complete,328,10992029
+CNT1891,Contractor_891,Company_891,REG100891,5,59,10.72,Not Insured,Mixed,Pending,61,10291027
+CNT1892,Contractor_892,Company_892,REG100892,6,20,94.5,Not Insured,Owned,Complete,242,40940062
+CNT1893,Contractor_893,Company_893,REG100893,7,56,56.7,Not Insured,Leased,Pending,340,7397763
+CNT1894,Contractor_894,Company_894,REG100894,13,71,32.04,Not Insured,Owned,Pending,457,44653359
+CNT1895,Contractor_895,Company_895,REG100895,9,46,34.26,Insured,Owned,Complete,102,44793649
+CNT1896,Contractor_896,Company_896,REG100896,11,33,39.36,Insured,Mixed,Partial,332,31760979
+CNT1897,Contractor_897,Company_897,REG100897,24,98,95.99,Not Insured,Leased,Partial,477,16870527
+CNT1898,Contractor_898,Company_898,REG100898,28,65,19.3,Insured,Owned,Partial,168,35196078
+CNT1899,Contractor_899,Company_899,REG100899,20,79,53.65,Insured,Mixed,Pending,193,8144340
+CNT1900,Contractor_900,Company_900,REG100900,7,68,33.83,Insured,Mixed,Partial,228,13017712
+CNT1901,Contractor_901,Company_901,REG100901,10,38,14.67,Insured,Owned,Complete,231,48729715
+CNT1902,Contractor_902,Company_902,REG100902,7,46,5.2,Not Insured,Leased,Complete,210,44075195
+CNT1903,Contractor_903,Company_903,REG100903,11,69,16.23,Not Insured,Owned,Complete,111,17918526
+CNT1904,Contractor_904,Company_904,REG100904,30,100,37.34,Not Insured,Owned,Pending,246,46466108
+CNT1905,Contractor_905,Company_905,REG100905,30,22,53.93,Not Insured,Mixed,Complete,497,6157299
+CNT1906,Contractor_906,Company_906,REG100906,26,71,91.66,Insured,Mixed,Partial,89,45811012
+CNT1907,Contractor_907,Company_907,REG100907,9,54,41.17,Not Insured,Owned,Pending,268,20994111
+CNT1908,Contractor_908,Company_908,REG100908,15,11,91.4,Not Insured,Owned,Complete,152,13426373
+CNT1909,Contractor_909,Company_909,REG100909,20,35,45.43,Insured,Owned,Partial,201,12980999
+CNT1910,Contractor_910,Company_910,REG100910,12,88,55.63,Insured,Mixed,Pending,64,46850469
+CNT1911,Contractor_911,Company_911,REG100911,30,28,19.69,Not Insured,Owned,Partial,403,28338188
+CNT1912,Contractor_912,Company_912,REG100912,9,82,69.32,Not Insured,Leased,Partial,320,9690574
+CNT1913,Contractor_913,Company_913,REG100913,16,86,33.51,Not Insured,Mixed,Complete,436,16449538
+CNT1914,Contractor_914,Company_914,REG100914,8,97,50.81,Not Insured,Mixed,Pending,496,28228267
+CNT1915,Contractor_915,Company_915,REG100915,5,54,61.5,Insured,Leased,Complete,321,7397524
+CNT1916,Contractor_916,Company_916,REG100916,5,70,14.64,Not Insured,Mixed,Complete,273,32648214
+CNT1917,Contractor_917,Company_917,REG100917,19,30,98.51,Not Insured,Owned,Complete,249,18712618
+CNT1918,Contractor_918,Company_918,REG100918,11,58,83.42,Not Insured,Leased,Partial,253,38539230
+CNT1919,Contractor_919,Company_919,REG100919,23,43,15.69,Insured,Owned,Partial,302,9327407
+CNT1920,Contractor_920,Company_920,REG100920,8,39,14.88,Insured,Leased,Partial,164,28823033
+CNT1921,Contractor_921,Company_921,REG100921,19,11,66.7,Not Insured,Owned,Partial,250,49368905
+CNT1922,Contractor_922,Company_922,REG100922,27,93,53.56,Not Insured,Leased,Complete,478,21545391
+CNT1923,Contractor_923,Company_923,REG100923,16,67,53.43,Insured,Leased,Partial,130,21788318
+CNT1924,Contractor_924,Company_924,REG100924,14,75,74.9,Not Insured,Leased,Partial,94,29262820
+CNT1925,Contractor_925,Company_925,REG100925,29,49,98.58,Not Insured,Owned,Complete,397,10487162
+CNT1926,Contractor_926,Company_926,REG100926,28,25,17.29,Insured,Mixed,Partial,363,6284421
+CNT1927,Contractor_927,Company_927,REG100927,6,92,54.41,Not Insured,Mixed,Complete,224,15342549
+CNT1928,Contractor_928,Company_928,REG100928,24,17,97.22,Not Insured,Mixed,Partial,451,46612670
+CNT1929,Contractor_929,Company_929,REG100929,28,15,55.63,Insured,Owned,Complete,123,12482333
+CNT1930,Contractor_930,Company_930,REG100930,21,89,74.31,Not Insured,Leased,Partial,67,14121338
+CNT1931,Contractor_931,Company_931,REG100931,15,81,43.76,Not Insured,Mixed,Pending,329,40318037
+CNT1932,Contractor_932,Company_932,REG100932,19,41,19.69,Not Insured,Mixed,Partial,154,48826297
+CNT1933,Contractor_933,Company_933,REG100933,20,37,53.52,Insured,Leased,Complete,396,35862166
+CNT1934,Contractor_934,Company_934,REG100934,14,15,92.43,Not Insured,Owned,Pending,65,20475925
+CNT1935,Contractor_935,Company_935,REG100935,13,93,60.84,Insured,Owned,Complete,330,39792883
+CNT1936,Contractor_936,Company_936,REG100936,27,40,64.21,Not Insured,Leased,Complete,186,49651310
+CNT1937,Contractor_937,Company_937,REG100937,11,75,90.16,Insured,Owned,Pending,449,19756532
+CNT1938,Contractor_938,Company_938,REG100938,8,97,47.29,Insured,Leased,Complete,376,43578233
+CNT1939,Contractor_939,Company_939,REG100939,19,88,77.07,Not Insured,Owned,Pending,487,48858229
+CNT1940,Contractor_940,Company_940,REG100940,21,82,90.77,Not Insured,Owned,Pending,134,30738231
+CNT1941,Contractor_941,Company_941,REG100941,19,32,40.42,Not Insured,Leased,Partial,83,41264437
+CNT1942,Contractor_942,Company_942,REG100942,15,84,71.62,Insured,Mixed,Partial,95,25043989
+CNT1943,Contractor_943,Company_943,REG100943,18,69,60.1,Not Insured,Leased,Partial,325,35709762
+CNT1944,Contractor_944,Company_944,REG100944,20,67,55.88,Not Insured,Mixed,Complete,54,12106880
+CNT1945,Contractor_945,Company_945,REG100945,18,23,28.26,Not Insured,Leased,Pending,486,21241793
+CNT1946,Contractor_946,Company_946,REG100946,13,63,99.53,Insured,Owned,Partial,181,12143159
+CNT1947,Contractor_947,Company_947,REG100947,12,94,82.49,Insured,Leased,Complete,206,49118915
+CNT1948,Contractor_948,Company_948,REG100948,10,52,25.5,Not Insured,Mixed,Complete,97,5584007
+CNT1949,Contractor_949,Company_949,REG100949,8,79,14.32,Not Insured,Mixed,Partial,381,10644742
+CNT1950,Contractor_950,Company_950,REG100950,8,33,25.68,Not Insured,Owned,Partial,342,40451499
+CNT1951,Contractor_951,Company_951,REG100951,11,10,14.92,Not Insured,Owned,Complete,245,43011597
+CNT1952,Contractor_952,Company_952,REG100952,23,48,50.38,Not Insured,Leased,Partial,395,48587891
+CNT1953,Contractor_953,Company_953,REG100953,23,48,49.88,Insured,Mixed,Pending,325,24375467
+CNT1954,Contractor_954,Company_954,REG100954,10,24,73.99,Insured,Mixed,Complete,264,38662435
+CNT1955,Contractor_955,Company_955,REG100955,19,96,23.03,Insured,Leased,Pending,185,23704848
+CNT1956,Contractor_956,Company_956,REG100956,20,16,34.2,Insured,Mixed,Partial,57,33650044
+CNT1957,Contractor_957,Company_957,REG100957,16,92,29.07,Insured,Leased,Pending,465,19301834
+CNT1958,Contractor_958,Company_958,REG100958,23,55,64.44,Insured,Owned,Pending,201,11102015
+CNT1959,Contractor_959,Company_959,REG100959,9,28,81.65,Insured,Mixed,Pending,112,43352895
+CNT1960,Contractor_960,Company_960,REG100960,30,73,75.3,Not Insured,Owned,Pending,87,2907337
+CNT1961,Contractor_961,Company_961,REG100961,11,22,87.89,Not Insured,Owned,Pending,395,47138344
+CNT1962,Contractor_962,Company_962,REG100962,5,47,6.63,Not Insured,Leased,Partial,346,36224638
+CNT1963,Contractor_963,Company_963,REG100963,22,50,27.79,Insured,Mixed,Pending,166,22146484
+CNT1964,Contractor_964,Company_964,REG100964,10,34,80.01,Not Insured,Mixed,Partial,158,11840539
+CNT1965,Contractor_965,Company_965,REG100965,8,76,96.34,Not Insured,Leased,Complete,491,30390443
+CNT1966,Contractor_966,Company_966,REG100966,30,19,33,Not Insured,Leased,Complete,399,18964470
+CNT1967,Contractor_967,Company_967,REG100967,24,58,83.18,Insured,Leased,Complete,290,28966472
+CNT1968,Contractor_968,Company_968,REG100968,12,17,78.75,Insured,Leased,Partial,338,29612944
+CNT1969,Contractor_969,Company_969,REG100969,11,57,45.72,Insured,Leased,Pending,413,33407431
+CNT1970,Contractor_970,Company_970,REG100970,29,38,74.26,Not Insured,Leased,Complete,417,21713955
+CNT1971,Contractor_971,Company_971,REG100971,15,72,53.81,Not Insured,Mixed,Pending,484,3489373
+CNT1972,Contractor_972,Company_972,REG100972,18,68,13.1,Not Insured,Mixed,Complete,415,14366738
+CNT1973,Contractor_973,Company_973,REG100973,22,13,34.19,Insured,Owned,Complete,477,9726261
+CNT1974,Contractor_974,Company_974,REG100974,7,92,95.34,Not Insured,Leased,Partial,135,41853093
+CNT1975,Contractor_975,Company_975,REG100975,14,17,75.6,Not Insured,Leased,Complete,256,30583325
+CNT1976,Contractor_976,Company_976,REG100976,11,82,12.52,Insured,Mixed,Partial,90,15048995
+CNT1977,Contractor_977,Company_977,REG100977,15,42,23.58,Insured,Mixed,Partial,421,42725162
+CNT1978,Contractor_978,Company_978,REG100978,14,64,83.09,Insured,Mixed,Partial,113,24016535
+CNT1979,Contractor_979,Company_979,REG100979,11,75,17.02,Insured,Mixed,Pending,228,23737011
+CNT1980,Contractor_980,Company_980,REG100980,14,56,73.35,Insured,Mixed,Pending,249,28744112
+CNT1981,Contractor_981,Company_981,REG100981,10,69,53.38,Insured,Leased,Pending,345,13852976
+CNT1982,Contractor_982,Company_982,REG100982,18,38,13.54,Not Insured,Leased,Pending,488,20818931
+CNT1983,Contractor_983,Company_983,REG100983,28,76,25.94,Not Insured,Leased,Complete,339,30092687
+CNT1984,Contractor_984,Company_984,REG100984,16,58,95.17,Insured,Leased,Complete,139,38205961
+CNT1985,Contractor_985,Company_985,REG100985,30,79,74.53,Not Insured,Mixed,Pending,409,23678617
+CNT1986,Contractor_986,Company_986,REG100986,29,73,49.75,Not Insured,Leased,Partial,427,10639872
+CNT1987,Contractor_987,Company_987,REG100987,11,95,93.96,Not Insured,Leased,Partial,295,41014967
+CNT1988,Contractor_988,Company_988,REG100988,10,69,23.81,Not Insured,Leased,Complete,386,46143759
+CNT1989,Contractor_989,Company_989,REG100989,26,59,78.54,Insured,Mixed,Partial,159,33478501
+CNT1990,Contractor_990,Company_990,REG100990,12,56,81.86,Insured,Leased,Complete,448,11076151
+CNT1991,Contractor_991,Company_991,REG100991,6,91,61.16,Not Insured,Leased,Complete,482,35048177
+CNT1992,Contractor_992,Company_992,REG100992,20,48,32.64,Insured,Mixed,Pending,263,46704139
+CNT1993,Contractor_993,Company_993,REG100993,13,47,10.35,Insured,Owned,Partial,304,29301179
+CNT1994,Contractor_994,Company_994,REG100994,5,79,27.33,Not Insured,Leased,Complete,454,19796905
+CNT1995,Contractor_995,Company_995,REG100995,18,50,93.74,Not Insured,Owned,Complete,453,39464790
+CNT1996,Contractor_996,Company_996,REG100996,17,94,20.22,Not Insured,Mixed,Partial,492,28778075
+CNT1997,Contractor_997,Company_997,REG100997,29,70,25.96,Not Insured,Mixed,Complete,207,39224985
+CNT1998,Contractor_998,Company_998,REG100998,24,76,55.15,Not Insured,Owned,Partial,425,20592690
+CNT1999,Contractor_999,Company_999,REG100999,23,71,63.44,Insured,Leased,Complete,95,41097424
